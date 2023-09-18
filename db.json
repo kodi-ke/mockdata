@@ -7,7 +7,18 @@
             "tenants": 110,
             "issues": 2,
             "overduePay": 2,
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "units":{
+                "id": 1,
+                "houseNumber": "GTC-A-1",
+                "rent": 100000,
+                "tenants": {
+                    "id": 1,
+                    "name": "Ian Nani",
+                    "email": "nani@gmail.com",
+                    "national_Id": 12345678
+                }
+            }
         },
         {
             "id": 2,

@@ -4,8 +4,8 @@
             "id": 1,
             "name": "Global Trade Center (GTC) Towers",
             "imageUrl":  "https://images.pexels.com/photos/439391/pexels-photo-439391.jpeg",
-            "tenants": 110,
-            "issues": 2,
+            "tenants": 10,
+            "issues": 0,
             "overduePay": 2,
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
         },
@@ -13,226 +13,27 @@
             "id": 2,
             "name": "Ngong Lane Plaza",
             "imageUrl": "https://images.pexels.com/photos/6783942/pexels-photo-6783942.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-            "tenants": 110,
-            "issues": 2,
+            "tenants": 17,
+            "issues": 1,
             "overduePay": 2,
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
         },
         {
             "id": 3,
-            "name": "Global Trade Center (GTC) Towers",
+            "name": "Tumaini Apartments",
             "imageUrl":  "https://images.pexels.com/photos/439391/pexels-photo-439391.jpeg",
-            "tenants": 110,
-            "issues": 2,
-            "overduePay": 2,
+            "tenants": 7,
+            "issues": 1,
+            "overduePay": 0,
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
         },
         {
             "id": 4,
-            "name": "Ngong Lane Plaza",
+            "name": "Nine Planets",
             "imageUrl": "https://images.pexels.com/photos/6783942/pexels-photo-6783942.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-            "tenants": 110,
-            "issues": 2,
-            "overduePay": 2,
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        },
-        {
-            "id": 5,
-            "name": "Global Trade Center (GTC) Towers",
-            "imageUrl":  "https://images.pexels.com/photos/439391/pexels-photo-439391.jpeg",
-            "tenants": 110,
-            "issues": 2,
-            "overduePay": 2,
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        },
-        {
-            "id": 6,
-            "name": "Ngong Lane Plaza",
-            "imageUrl": "https://images.pexels.com/photos/6783942/pexels-photo-6783942.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-            "tenants": 110,
-            "issues": 2,
-            "overduePay": 2,
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        },
-        {
-            "id": 7,
-            "name": "Global Trade Center (GTC) Towers",
-            "imageUrl":  "https://images.pexels.com/photos/439391/pexels-photo-439391.jpeg",
-            "tenants": 110,
-            "issues": 2,
-            "overduePay": 2,
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        },
-        {
-            "id": 8,
-            "name": "Ngong Lane Plaza",
-            "imageUrl": "https://images.pexels.com/photos/6783942/pexels-photo-6783942.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-            "tenants": 110,
-            "issues": 2,
-            "overduePay": 2,
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        },
-        {
-            "id": 9,
-            "name": "Global Trade Center (GTC) Towers",
-            "imageUrl":  "https://images.pexels.com/photos/439391/pexels-photo-439391.jpeg",
-            "tenants": 110,
-            "issues": 2,
-            "overduePay": 2,
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        },
-        {
-            "id": 10,
-            "name": "Ngong Lane Plaza",
-            "imageUrl": "https://images.pexels.com/photos/6783942/pexels-photo-6783942.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-            "tenants": 110,
-            "issues": 2,
-            "overduePay": 2,
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        },
-        {
-            "id": 11,
-            "name": "Global Trade Center (GTC) Towers",
-            "imageUrl":  "https://images.pexels.com/photos/439391/pexels-photo-439391.jpeg",
-            "tenants": 110,
-            "issues": 2,
-            "overduePay": 2,
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        },
-        {
-            "id": 12,
-            "name": "Ngong Lane Plaza",
-            "imageUrl": "https://images.pexels.com/photos/6783942/pexels-photo-6783942.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-            "tenants": 110,
-            "issues": 2,
-            "overduePay": 2,
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        },
-{
-            "id": 13,
-            "name": "Global Trade Center (GTC) Towers",
-            "imageUrl":  "https://images.pexels.com/photos/439391/pexels-photo-439391.jpeg",
-            "tenants": 110,
-            "issues": 2,
-            "overduePay": 2,
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        },
-        {
-            "id": 14,
-            "name": "Ngong Lane Plaza",
-            "imageUrl": "https://images.pexels.com/photos/6783942/pexels-photo-6783942.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-            "tenants": 110,
-            "issues": 2,
-            "overduePay": 2,
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        },
-        {
-            "id": 15,
-            "name": "Global Trade Center (GTC) Towers",
-            "imageUrl":  "https://images.pexels.com/photos/439391/pexels-photo-439391.jpeg",
-            "tenants": 110,
-            "issues": 2,
-            "overduePay": 2,
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        },
-        {
-            "id": 16,
-            "name": "Ngong Lane Plaza",
-            "imageUrl": "https://images.pexels.com/photos/6783942/pexels-photo-6783942.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-            "tenants": 110,
-            "issues": 2,
-            "overduePay": 2,
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        },
-        {
-            "id": 17,
-            "name": "Global Trade Center (GTC) Towers",
-            "imageUrl":  "https://images.pexels.com/photos/439391/pexels-photo-439391.jpeg",
-            "tenants": 110,
-            "issues": 2,
-            "overduePay": 2,
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        },
-        {
-            "id": 18,
-            "name": "Ngong Lane Plaza",
-            "imageUrl": "https://images.pexels.com/photos/6783942/pexels-photo-6783942.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-            "tenants": 110,
-            "issues": 2,
-            "overduePay": 2,
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        },
-        {
-            "id": 19,
-            "name": "Global Trade Center (GTC) Towers",
-            "imageUrl":  "https://images.pexels.com/photos/439391/pexels-photo-439391.jpeg",
-            "tenants": 110,
-            "issues": 2,
-            "overduePay": 2,
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        },
-        {
-            "id": 20,
-            "name": "Ngong Lane Plaza",
-            "imageUrl": "https://images.pexels.com/photos/6783942/pexels-photo-6783942.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-            "tenants": 110,
-            "issues": 2,
-            "overduePay": 2,
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        },
-        {
-            "id": 21,
-            "name": "Global Trade Center (GTC) Towers",
-            "imageUrl":  "https://images.pexels.com/photos/439391/pexels-photo-439391.jpeg",
-            "tenants": 110,
-            "issues": 2,
-            "overduePay": 2,
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        },
-        {
-            "id": 22,
-            "name": "Ngong Lane Plaza",
-            "imageUrl": "https://images.pexels.com/photos/6783942/pexels-photo-6783942.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-            "tenants": 110,
-            "issues": 2,
-            "overduePay": 2,
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        }  
-,
-        {
-            "id": 23,
-            "name": "Global Trade Center (GTC) Towers",
-            "imageUrl":  "https://images.pexels.com/photos/439391/pexels-photo-439391.jpeg",
-            "tenants": 110,
-            "issues": 2,
-            "overduePay": 2,
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        },
-        {
-            "id": 24,
-            "name": "Ngong Lane Plaza",
-            "imageUrl": "https://images.pexels.com/photos/6783942/pexels-photo-6783942.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-            "tenants": 110,
-            "issues": 2,
-            "overduePay": 2,
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        },
-        {
-            "id": 25,
-            "name": "Global Trade Center (GTC) Towers",
-            "imageUrl":  "https://images.pexels.com/photos/439391/pexels-photo-439391.jpeg",
-            "tenants": 110,
-            "issues": 2,
-            "overduePay": 2,
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        },
-        {
-            "id": 26,
-            "name": "Ngong Lane Plaza",
-            "imageUrl": "https://images.pexels.com/photos/6783942/pexels-photo-6783942.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-            "tenants": 110,
-            "issues": 2,
-            "overduePay": 2,
+            "tenants": 30,
+            "issues": 0,
+            "overduePay": 0,
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
         }
     ],

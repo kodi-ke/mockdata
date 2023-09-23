@@ -51,5 +51,15 @@
             "email": "nani@gmail.com",
             "national_Id": 12345678
         }
+    ],
+    "authLogin":[
+        {
+            "userId":1,
+            "userName":"Test user",
+            "email":"test@gmail.com",
+            "userType":"admin",
+            "permisions":[],
+            "isLoggedIn":true
+        }
     ]
 }

@@ -57,7 +57,7 @@
             "userId":1,
             "userName":"Test user",
             "email":"test@gmail.com",
-            "userType":"admin",
+            "userType":"landlord",
             "permisions":[],
             "isLoggedIn":true
         }

@@ -45,7 +45,32 @@
             "userName":"Test user",
             "email":"test@gmail.com",
             "userType":"landlord",
-            "permisions":[],
+            "permisions":{
+                "dashboard": {
+                  "access": true
+                },
+                "properties": {
+                    "access":true
+                },
+                "payments":{
+                    "access":true
+                },
+                "requests":{
+                    "access":true
+                },
+                "notifications":{
+                    "access":true
+                },
+                "issues":{
+                    "access":true
+                },
+                "seatings":{
+                    "access":true
+                },
+                "logout":{
+                    "access":true
+                }
+            },
             "isLoggedIn":true
         }
     ]

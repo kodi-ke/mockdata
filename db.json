@@ -1,31 +1,29 @@
 {
     "properties": [
         {
-            "data": [
-                {
-                    "id": 1,
-                    "name": "Global Trade Center (GTC) Towers",
-                    "imageUrl": "https://images.pexels.com/photos/439391/pexels-photo-439391.jpeg",
-                    "tenants": 10,
-                    "issues": 0,
-                    "overduePay": 2,
-                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-                },
-                {
-                    "id": 2,
-                    "name": "Ngong Lane Plaza",
-                    "imageUrl": "https://images.pexels.com/photos/6783942/pexels-photo-6783942.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-                    "tenants": 17,
-                    "issues": 1,
-                    "overduePay": 2,
-                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-                }
-            ],
-            "page": 1,
-            "total": 100,
-            "per_page": 6
+            "id": 1,
+            "name": "Global Trade Center (GTC) Towers",
+            "imageUrl": "https://images.pexels.com/photos/439391/pexels-photo-439391.jpeg",
+            "tenants": 10,
+            "issues": 0,
+            "overduePay": 2,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+            "id": 2,
+            "name": "Ngong Lane Plaza",
+            "imageUrl": "https://images.pexels.com/photos/6783942/pexels-photo-6783942.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "tenants": 17,
+            "issues": 1,
+            "overduePay": 2,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
         }
     ],
+    "pagination": {
+        "page": 1,
+        "total": 100,
+        "per_page": 2
+    },
     "units":[
         {
             "id": 1,

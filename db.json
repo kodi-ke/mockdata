@@ -50,7 +50,7 @@
                   "access": true
                 },
                 "properties": {
-                    "access":true
+                    "access":false
                 },
                 "payments":{
                     "access":true

@@ -44,7 +44,7 @@
             "userId":1,
             "userName":"Test user",
             "email":"test@gmail.com",
-            "userType":"landlord",
+            "userType":"tenant",
             "permisions":{
                 "dashboard": {
                   "access": true

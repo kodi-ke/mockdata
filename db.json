@@ -6,17 +6,51 @@
             "imageUrl": "https://images.pexels.com/photos/439391/pexels-photo-439391.jpeg",
             "tenants": 10,
             "issues": 0,
+            "requests": 2,
             "overduePay": 2,
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            "units": 50,
+            "beds": 2,
+            "parking": 50,
+            "moving_in": 2,
+            "moving_out": 2,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "caretaker_name": "John Nani",
+            "property_agent": "ABC Realtors",
+            "amenities": {
+                "parking_spots": true,
+                "swimming_pool": true,
+                "playground": true,
+                "generator": true,
+                "lift": true,
+                "gym": true,
+                "clubhouse": true
+            }
         },
         {
             "id": 2,
             "name": "Ngong Lane Plaza",
             "imageUrl": "https://images.pexels.com/photos/6783942/pexels-photo-6783942.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-            "tenants": 0,
+            "tenants": 17,
             "issues": 1,
-            "overduePay": 0,
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            "requests": 3,
+            "overduePay": 2,
+            "units": 50,
+            "beds": 2,
+            "parking": 50,
+            "moving_in": 2,
+            "moving_out": 2,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "caretaker_name": "John Nani",
+            "property_agent": "ABC Realtors",
+            "amenities": {
+                "parking_spots": true,
+                "swimming_pool": false,
+                "playground": false,
+                "generator": true,
+                "lift": true,
+                "gym": false,
+                "clubhouse": false
+            }
         }
     ],
     "pagination": {

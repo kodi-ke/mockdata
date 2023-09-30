@@ -17,7 +17,7 @@
             "caretaker_name": "John Nani",
             "caretaker_avatar": "https://avatars.akamai.steamstatic.com/abe8f71959333301049206b48c07525b8b74aeec_full.jpg",
             "property_agent": "ABC Realtors",
-            "agent_avatar": "https://avatars.akamai.steamstatic.com/abe8f71959333301049206b48c07525b8b74aeec_full.jpg"
+            "agent_avatar": "https://avatars.akamai.steamstatic.com/abe8f71959333301049206b48c07525b8b74aeec_full.jpg",
             "amenities": {
                 "parking_spots": true,
                 "swimming_pool": true,
@@ -43,7 +43,9 @@
             "moving_out": 2,
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
             "caretaker_name": "John Nani",
+            "caretaker_avatar": "https://avatars.akamai.steamstatic.com/abe8f71959333301049206b48c07525b8b74aeec_full.jpg",
             "property_agent": "ABC Realtors",
+            "agent_avatar": "https://avatars.akamai.steamstatic.com/abe8f71959333301049206b48c07525b8b74aeec_full.jpg",
             "amenities": {
                 "parking_spots": true,
                 "swimming_pool": false,

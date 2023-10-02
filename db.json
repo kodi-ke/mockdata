@@ -111,5 +111,77 @@
             },
             "isLoggedIn":true
         }
+    ],
+    "landlord_notifications": [
+        {
+          "id": 1,
+          "tenant_name": "Ian Nani",
+          "house_number": "GTC-A1",
+          "property_name": "GTC",
+          "issue_id": 1,
+          "request_id": null,
+          "payment_id": null,
+          "created_at": "02-10-2023 0914",
+          "notification_message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "category": "electrical",
+          "date": null,
+          "due_in": null
+        },
+        {
+          "id": 2,
+          "tenant_name": "John Nani",
+          "house_number": "GTC-A1",
+          "property_name": "GTC",
+          "issue_id": null,
+          "request_id": 1,
+          "payment_id": null,
+          "created_at": "02-10-2023 0914",
+          "notification_message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "category": "moving_out",
+          "date": null,
+          "due_in": null
+        },
+        {
+          "id": 3,
+          "tenant_name": "Rodgers Nani",
+          "house_number": "GTC-A1",
+          "property_name": "GTC",
+          "issue_id": null,
+          "request_id": null,
+          "payment_id": null,
+          "created_at": "02-10-2023 0914",
+          "notification_message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "category": "rent_payment",
+          "date": null,
+          "due_in": null
+        },
+        {
+          "id": 4,
+          "tenant_name": "Ian Nani",
+          "house_number": "GTC-A1",
+          "property_name": "GTC",
+          "issue_id": 1,
+          "request_id": null,
+          "payment_id": null,
+          "created_at": "02-10-2023 0914",
+          "notification_message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "category": "electrical",
+          "date": null,
+          "due_in": null
+        },
+        {
+          "id": 5,
+          "tenant_name": null,
+          "house_number": null,
+          "property_name": null,
+          "issue_id": null,
+          "request_id": null,
+          "payment_id": null,
+          "created_at": "02-10-2023 0914",
+          "notification_message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "category": "report",
+          "date": "September",
+          "due_in": null
+        }
     ]
 }

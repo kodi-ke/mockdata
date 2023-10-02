@@ -224,5 +224,61 @@
           "date": null,
           "due_in": null
         }
-    ]
+    ],
+    "balances": [
+    {
+      "id": 1,
+      "property_id": 1,
+      "amount_paid": 900000,
+      "amount_pending": 100000,
+      "amount_total": 1000000,
+      "tenants_paid": [
+        {
+          "tenant_id": 1, 
+          "tenant_name":"Ryan Florence",
+          "tenant_avatar" : "https://bit.ly/ryan-florence"
+        },
+        {
+          "tenant_id": 2, 
+          "tenant_name":"Ryan Florence",
+          "tenant_avatar" : "https://bit.ly/ryan-florence"
+        },
+        {
+          "tenant_id": 3, 
+          "tenant_name":"Ryan Florence",
+          "tenant_avatar" : "https://bit.ly/ryan-florence"
+        },
+        {
+          "tenant_id": 4, 
+          "tenant_name":"Ryan Florence",
+          "tenant_avatar" : "https://bit.ly/ryan-florence"
+        }
+      ],
+
+      "tenants_pending": [
+        {
+          "tenant_id": 1, 
+          "tenant_name":"Ryan Florence",
+          "tenant_avatar" : "https://bit.ly/ryan-florence"
+        }
+      ]
+    }
+  ],
+  "vacant_units": [
+    {
+      "id": 1,
+      "property_id": 1,
+      "total_units": 100,
+      "occupied": 90,
+      "percent_occupied": 90,
+      "vacant": 10,
+      "beds_analysis": {
+        "one_bedrooms": 1,
+        "two_bedrooms": 3,
+        "three_bedrooms": 2,
+        "four_bedrooms": 1,
+        "five_bedrooms": 1
+      }
+    }
+  ]
 }

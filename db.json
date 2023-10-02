@@ -194,7 +194,7 @@
           "created_at": "2023-10-02T14:56:32.456Z",
           "notification_message": "Click here for a detailed view of their payment",
           "category": "rent_payment",
-          "date": "September",
+          "date": null,
           "due_in": null
         },
          {
@@ -208,7 +208,7 @@
           "created_at": "2023-10-02T13:45:01.789Z",
           "notification_message": "My rent is supposed to be 300,000/- per month, not 100,000/-. I am not a poor man!!",
           "category": "billing",
-          "date": "September",
+          "date": null,
           "due_in": null
         },  {
           "id": 8,

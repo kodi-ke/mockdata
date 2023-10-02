@@ -129,7 +129,7 @@
         },
         {
           "id": 2,
-          "tenant_name": "John Simon",
+          "tenant_name": "Pamela Owino",
           "house_number": "Skywalk A1",
           "property_name": "Skywalk",
           "issue_id": null,
@@ -185,7 +185,7 @@
         },
          {
           "id": 6,
-          "tenant_name": "Kimathi Nkoki",
+          "tenant_name": "Kimathi Njoki",
           "house_number": "101",
           "property_name": "Dallas Texas Apartment",
           "issue_id": null,
@@ -223,6 +223,6 @@
           "category": "amenities",
           "date": null,
           "due_in": null
-        }, 
+        }
     ]
 }

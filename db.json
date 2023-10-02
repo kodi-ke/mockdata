@@ -114,8 +114,8 @@
     ],
     "landlord_notifications": [
         {
-          "id": 1,
-          "tenant_name": "Tony Airo",
+            "id": 1,
+            "tenant_name": "Tony Airo",
           "house_number": "GTC-B2",
           "property_name": "GTC",
           "issue_id": 109,
@@ -124,6 +124,7 @@
           "created_at": "2023-10-02T19:41:49.345Z",
           "notification_message": "My oven is sparking. Please check on this urgently",
           "category": "electrical",
+            "status": "read",
           "date": null,
           "due_in": null
         },
@@ -138,6 +139,7 @@
           "created_at": "2023-10-02T18:30:10.890Z",
           "notification_message": "This is notice that I intend to vacate the premises at the end of October.",
           "category": "moving_out",
+             "status": "unread",
           "date": null,
           "due_in": null
         },
@@ -152,6 +154,7 @@
           "created_at": "2023-10-02T17:29:15.567Z",
           "notification_message": "Click here for a detailed view of their payment",
           "category": "rent_payment",
+             "status": "read",
           "date": null,
           "due_in": null
         },
@@ -166,6 +169,7 @@
           "created_at": "2023-10-02T16:18:40.234Z",
           "notification_message": "The music from Apartment E4 is too loud at night. Sort this.",
           "category": "neighbor_complaint",
+             "status": "unread",
           "date": null,
           "due_in": null
         },
@@ -180,6 +184,7 @@
           "created_at": "2023-10-02T15:07:22.901Z",
           "notification_message": "Click the button to download your report.",
           "category": "report",
+             "status": "unread",
           "date": "September",
           "due_in": null
         },
@@ -194,6 +199,7 @@
           "created_at": "2023-10-02T14:56:32.456Z",
           "notification_message": "Click here for a detailed view of their payment",
           "category": "rent_payment",
+              "status": "unread",
           "date": null,
           "due_in": null
         },
@@ -208,6 +214,7 @@
           "created_at": "2023-10-02T13:45:01.789Z",
           "notification_message": "My rent is supposed to be 300,000/- per month, not 100,000/-. I am not a poor man!!",
           "category": "billing",
+             "status": "read",
           "date": null,
           "due_in": null
         },  {
@@ -221,6 +228,7 @@
           "created_at": "2023-10-02T12:34:56.123Z",
           "notification_message": "Would like to book the swimming pool and 10 parking slots this coming Saturday for my guests.",
           "category": "amenities",
+              "status": "unread",
           "date": null,
           "due_in": null
         }

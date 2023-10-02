@@ -82,7 +82,7 @@
             "userId":1,
             "userName":"Test user",
             "email":"test@gmail.com",
-            "userType":"tenant",
+            "userType":"landlord",
             "permisions":{
                 "dashboard": {
                   "access": true

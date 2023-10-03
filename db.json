@@ -324,7 +324,7 @@
 			"issue_status": "pending"
 		}
 	],
-    "requests: [
+    "requests": [
     {
 			"id": 347,
 			"tenant_id": "F34",

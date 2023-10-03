@@ -289,7 +289,7 @@
       }
     }
   ],
-    	"issues": [
+    "issues": [
 		{
 			"id": 342,
 			"tenant_id": "A21",
@@ -297,7 +297,8 @@
 			"house_number": "34",
 			"property_name": "Bird Apartments",
 			"category": "electrical",
-			"message": "My oven is sparking. Kindly fix this.",
+			"title": "Sparking oven. Please fix",
+			"message": "My oven is sparking. Since yesterday. Kindly fix this.",
 			"created_at": "2023-10-02T19:41:49.345Z",
 			"issue_status": "assigned"
 		},
@@ -308,6 +309,7 @@
 			"house_number": "21A",
 			"property_name": "River View Apartments",
 			"category": "plumbing",
+			"title": "Check my water leakage",
 			"message": "There's a water leak in my bathroom. Please send someone to fix it.",
 			"created_at": "2023-10-03T08:15:20.123Z",
 			"issue_status": "pending"
@@ -319,9 +321,22 @@
 			"house_number": "8C",
 			"property_name": "Meadow Apartments",
 			"category": "miscellaneous",
+			"title": "Cockroaches!!!!!!!!!!!",
 			"message": "There are cockroaches in my kitchen. Please schedule pest control.",
 			"created_at": "2023-10-03T12:20:37.234Z",
 			"issue_status": "pending"
+		},
+	    		{
+			"id": 345,
+			"tenant_id": "D89",
+			"tenant_name": "Emily Davis",
+			"house_number": "22B",
+			"property_name": "Safe Haven Residences",
+			"category": "security",
+			"title": "Nahama next month",
+			"message": "The front door lock is broken. We need it fixed for safety.",
+			"created_at": "2023-10-03T13:27:55.621Z",
+			"issue_status": "under_review"
 		}
 	],
     "requests": [
@@ -332,6 +347,7 @@
 			"house_number": "55C",
 			"property_name": "Central Park Apartments",
 			"category": "moving_out",
+	    "title": "Nahama next month",
 			"message": "I am moving out at the end of the month.",
 			"created_at": "2023-10-03T18:09:11.987Z",
 			"issue_status": "under_review"
@@ -343,20 +359,10 @@
 			"house_number": "8",
 			"property_name": "Green Meadows",
 			"category": "amenities",
+			"title": "Nahama next month",
 			"message": "I need 10 parking slots on Saturday",
 			"created_at": "2023-10-03T15:42:30.456Z",
 			"issue_status": "resolved"
-		},
-		{
-			"id": 345,
-			"tenant_id": "D89",
-			"tenant_name": "Emily Davis",
-			"house_number": "22B",
-			"property_name": "Safe Haven Residences",
-			"category": "security",
-			"message": "The front door lock is broken. We need it fixed for safety.",
-			"created_at": "2023-10-03T13:27:55.621Z",
-			"issue_status": "under_review"
 		}
     ]
 }

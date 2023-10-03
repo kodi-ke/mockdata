@@ -350,7 +350,7 @@
 	    "title": "Nahama next month",
 			"description": "I am moving out at the end of the month.",
 			"created_at": "2023-10-03T18:09:11.987Z",
-			"issue_status": "under_review"
+			"request_status": "under_review"
 		},
 		{
 			"id": 346,
@@ -362,7 +362,7 @@
 			"title": "Nahama next month",
 			"description": "I need 10 parking slots on Saturday",
 			"created_at": "2023-10-03T15:42:30.456Z",
-			"issue_status": "resolved"
+			"request_status": "resolved"
 		}
     ]
 }

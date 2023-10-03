@@ -300,7 +300,7 @@
 			"title": "Sparking oven. Please fix",
 			"description": "My oven is sparking. Since yesterday. Kindly fix this.",
 			"created_at": "2023-10-02T19:41:49.345Z",
-			"issue_status": "assigned"
+			"issue_status": "resolved"
 		},
 		{
 			"id": 343,
@@ -336,7 +336,7 @@
 			"title": "Nahama next month",
 			"description": "The front door lock is broken. We need it fixed for safety.",
 			"created_at": "2023-10-03T13:27:55.621Z",
-			"issue_status": "under_review"
+			"issue_status": "pending"
 		}
 	],
     "requests": [
@@ -350,7 +350,7 @@
 	    "title": "Nahama next month",
 			"description": "I am moving out at the end of the month.",
 			"created_at": "2023-10-03T18:09:11.987Z",
-			"request_status": "under_review"
+			"request_status": "pending"
 		},
 		{
 			"id": 346,

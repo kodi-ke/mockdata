@@ -298,7 +298,7 @@
 			"property_name": "Bird Apartments",
 			"category": "electrical",
 			"title": "Sparking oven. Please fix",
-			"message": "My oven is sparking. Since yesterday. Kindly fix this.",
+			"description": "My oven is sparking. Since yesterday. Kindly fix this.",
 			"created_at": "2023-10-02T19:41:49.345Z",
 			"issue_status": "assigned"
 		},
@@ -310,7 +310,7 @@
 			"property_name": "River View Apartments",
 			"category": "plumbing",
 			"title": "Check my water leakage",
-			"message": "There's a water leak in my bathroom. Please send someone to fix it.",
+			"description": "There's a water leak in my bathroom. Please send someone to fix it.",
 			"created_at": "2023-10-03T08:15:20.123Z",
 			"issue_status": "pending"
 		},
@@ -322,7 +322,7 @@
 			"property_name": "Meadow Apartments",
 			"category": "miscellaneous",
 			"title": "Cockroaches!!!!!!!!!!!",
-			"message": "There are cockroaches in my kitchen. Please schedule pest control.",
+			"description": "There are cockroaches in my kitchen. Please schedule pest control.",
 			"created_at": "2023-10-03T12:20:37.234Z",
 			"issue_status": "pending"
 		},
@@ -334,7 +334,7 @@
 			"property_name": "Safe Haven Residences",
 			"category": "security",
 			"title": "Nahama next month",
-			"message": "The front door lock is broken. We need it fixed for safety.",
+			"description": "The front door lock is broken. We need it fixed for safety.",
 			"created_at": "2023-10-03T13:27:55.621Z",
 			"issue_status": "under_review"
 		}
@@ -348,7 +348,7 @@
 			"property_name": "Central Park Apartments",
 			"category": "moving_out",
 	    "title": "Nahama next month",
-			"message": "I am moving out at the end of the month.",
+			"description": "I am moving out at the end of the month.",
 			"created_at": "2023-10-03T18:09:11.987Z",
 			"issue_status": "under_review"
 		},
@@ -360,7 +360,7 @@
 			"property_name": "Green Meadows",
 			"category": "amenities",
 			"title": "Nahama next month",
-			"message": "I need 10 parking slots on Saturday",
+			"description": "I need 10 parking slots on Saturday",
 			"created_at": "2023-10-03T15:42:30.456Z",
 			"issue_status": "resolved"
 		}

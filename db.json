@@ -83,6 +83,7 @@
             "userName":"Test user",
             "email":"test@gmail.com",
             "userType":"landlord",
+		"subscribed": false,
             "permisions":{
                 "dashboard": {
                   "access": true

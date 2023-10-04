@@ -90,6 +90,9 @@
                 "properties": {
                     "access":true
                 },
+		"profile": {
+                    "access":true
+                },
                 "payments":{
                     "access":true
                 },
@@ -103,6 +106,9 @@
                     "access":true
                 },
                 "settings":{
+                    "access":true
+                },
+		"property/1": {
                     "access":true
                 },
                 "logout":{

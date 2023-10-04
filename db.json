@@ -113,9 +113,6 @@
                 },
 		"subscription": {
                     "access":true
-                },
-                "*":{
-                    "access":true
                 }
                 "logout":{
                     "access":true

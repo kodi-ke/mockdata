@@ -111,6 +111,9 @@
 		"property": {
                     "access":true
                 },
+		"subscription": {
+                    "access":true
+                },
                 "logout":{
                     "access":true
                 }

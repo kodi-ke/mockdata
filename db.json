@@ -108,7 +108,7 @@
                 "settings":{
                     "access":true
                 },
-		"property/1": {
+		"property": {
                     "access":true
                 },
                 "logout":{

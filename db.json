@@ -114,6 +114,10 @@
 		"property": {
                     "access":true
                 },
+		,
+		"tenant": {
+                    "access":true
+                },
 		"tenants": {
                     "access":true
                 },

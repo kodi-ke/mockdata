@@ -391,5 +391,49 @@
 			"created_at": "2023-10-03T15:42:30.456Z",
 			"request_status": "resolved"
 		}
-    ]
+    ],
+	"tenants": [
+		{
+			"id": 1,
+			"name": "Ian Chemweno",
+			"property_id": 1,
+			"property_name": "Magnolia House",
+			"unit": "MH-1"
+		},
+		{
+			"id": 2,
+			"name": "Kimathi Njoki",
+			"property_id": 1,
+			"property_name": "Magnolia House",
+			"unit": "MH-2"
+		},
+		{
+			"id": 3,
+			"name": "Tonny Airo",
+			"property_id": 2,
+			"property_name": "Ngong Lane Plaza",
+			"unit": "NLZ-1"
+		},
+		{
+			"id": 4,
+			"name": "Rodgers Ogada",
+			"property_id": 2,
+			"property_name": "Ngong Lane Plaza",
+			"unit": "NLZ-2"
+		},
+		{
+			"id": 5,
+			"name": "Pamela Owino",
+			"property_id": 3,
+			"property_name": "Nine Planets",
+			"unit": "NP-1"
+		},
+		{
+			"id": 6,
+			"name": "Alexis Musyoki",
+			"property_id": 3,
+			"property_name": "Nine Planets",
+			"unit": "NP-2"
+		}
+	]
 }

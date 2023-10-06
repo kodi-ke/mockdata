@@ -114,6 +114,9 @@
 		"property": {
                     "access":true
                 },
+		"tenants": {
+                    "access":true
+                },
 		"subscription": {
                     "access":true
                 },

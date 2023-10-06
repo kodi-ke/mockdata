@@ -396,6 +396,7 @@
 		{
 			"id": 1,
 			"name": "Ian Chemweno",
+			"avatar_url": "https://bit.ly/dan-abramov",
 			"property_id": 1,
 			"property_name": "Magnolia House",
 			"unit": "MH-1"
@@ -403,6 +404,7 @@
 		{
 			"id": 2,
 			"name": "Kimathi Njoki",
+			"avatar_url": "https://bit.ly/tioluwani-kolawole",
 			"property_id": 1,
 			"property_name": "Magnolia House",
 			"unit": "MH-2"
@@ -410,6 +412,7 @@
 		{
 			"id": 3,
 			"name": "Tonny Airo",
+			"avatar_url": "https://bit.ly/kent-c-dodds",
 			"property_id": 2,
 			"property_name": "Ngong Lane Plaza",
 			"unit": "NLZ-1"
@@ -417,6 +420,7 @@
 		{
 			"id": 4,
 			"name": "Rodgers Ogada",
+			"avatar_url": "https://bit.ly/ryan-florence",
 			"property_id": 2,
 			"property_name": "Ngong Lane Plaza",
 			"unit": "NLZ-2"
@@ -424,6 +428,7 @@
 		{
 			"id": 5,
 			"name": "Pamela Owino",
+			"avatar_url": "https://bit.ly/prosper-baba",
 			"property_id": 3,
 			"property_name": "Nine Planets",
 			"unit": "NP-1"
@@ -431,6 +436,7 @@
 		{
 			"id": 6,
 			"name": "Alexis Musyoki",
+			"avatar_url": "https://bit.ly/sage-adebayo",
 			"property_id": 3,
 			"property_name": "Nine Planets",
 			"unit": "NP-2"

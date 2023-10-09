@@ -1,257 +1,250 @@
 {
-    "properties": [
-        {
-            "id": 1,
-            "name": "Global Trade Center (GTC) Towers",
-            "imageUrl": "https://images.pexels.com/photos/439391/pexels-photo-439391.jpeg",
-            "tenants": 10,
-            "issues": 0,
-            "requests": 2,
-            "overduePay": 2,
-            "units": 50,
-            "beds": 2,
-            "parking": 50,
-            "moving_in": 2,
-            "moving_out": 2,
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-            "caretaker_name": "John Nani",
-            "caretaker_avatar": "https://avatars.akamai.steamstatic.com/abe8f71959333301049206b48c07525b8b74aeec_full.jpg",
-            "property_agent": "ABC Realtors",
-            "agent_avatar": "https://avatars.akamai.steamstatic.com/abe8f71959333301049206b48c07525b8b74aeec_full.jpg",
-            "amenities": {
-                "parking_spots": true,
-                "swimming_pool": true,
-                "playground": true,
-                "generator": true,
-                "lift": true,
-                "gym": true,
-                "clubhouse": true
-            }
-        },
-        {
-            "id": 2,
-            "name": "Ngong Lane Plaza",
-            "imageUrl": "https://images.pexels.com/photos/6783942/pexels-photo-6783942.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-            "tenants": 17,
-            "issues": 1,
-            "requests": 3,
-            "overduePay": 2,
-            "units": 50,
-            "beds": 2,
-            "parking": 50,
-            "moving_in": 2,
-            "moving_out": 2,
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-            "caretaker_name": "John Nani",
-            "caretaker_avatar": "https://avatars.akamai.steamstatic.com/abe8f71959333301049206b48c07525b8b74aeec_full.jpg",
-            "property_agent": "ABC Realtors",
-            "agent_avatar": "https://avatars.akamai.steamstatic.com/abe8f71959333301049206b48c07525b8b74aeec_full.jpg",
-            "amenities": {
-                "parking_spots": true,
-                "swimming_pool": false,
-                "playground": false,
-                "generator": true,
-                "lift": true,
-                "gym": false,
-                "clubhouse": false
-            }
-        }
-    ],
-    "pagination": {
-        "page": 1,
-        "total": 100,
-        "per_page": 6
+  "properties": [
+    {
+      "id": 1,
+      "name": "Global Trade Center (GTC) Towers",
+      "imageUrl": "https://images.pexels.com/photos/4393pexels-photo-439391.jpeg",
+      "tenants": 10,
+      "issues": 0,
+      "requests": 2,
+      "overduePay": 2,
+      "units": 50,
+      "beds": 2,
+      "parking": 50,
+      "moving_in": 2,
+      "moving_out": 2,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "caretaker_avatar": "https://avatars.akamai.steamstatic.com/abe8f71959333301049206b48c07525b8b74aeec_full.jpg",
+      "caretaker_name": "John Nani",
+      "agent_avatar": "https://avatars.akamai.steamstatic.com/abe8f71959333301049206b48c07525b8b74aeec_full.jpg",
+      "property_agent": "ABC Realtors",
+      "parking_spots": true,
+      "amenities": {
+        "playground": true,
+        "swimming_pool": true,
+        "lift": true,
+        "generator": true,
+        "clubhouse": true,
+        "gym": true
+      }
     },
-    "units":[
-        {
-            "id": 1,
-            "houseNumber": "GTC-A-1",
-            "rent": 100000
+    {
+      "id": 2,
+      "imageUrl": "https://images.pexels.com/photos/6783942/pexels-photo-6783942.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Ngong Lane Plaza",
+      "issues": 1,
+      "tenants": 17,
+      "overduePay": 2,
+      "requests": 3,
+      "units": 50,
+      "beds": 2,
+      "parking": 50,
+      "moving_in": 2,
+      "moving_out": 2,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "caretaker_name": "John Nani",
+      "caretaker_avatar": "https://avatars.akamai.steamstatic.com/abe8f71959333301049206b48c07525b8b74aeec_full.jpg",
+      "property_agent": "ABC Realtors",
+      "agent_avatar": "https://avatars.akamai.steamstatic.com/abe8f71959333301049206b48c07525b8b74aeec_full.jpg",
+      "amenities": {
+        "parking_spots": true,
+        "swimming_pool": false,
+        "playground": false,
+        "generator": true,
+        "lift": true,
+        "gym": false,
+        "clubhouse": false
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "total": 100,
+    "per_page": 6
+  },
+  "units": [
+    {
+      "id": 1,
+      "houseNumber": "GTC-A-1",
+      "rent": 100000
+    }
+  ],
+  "authLogin": [
+    {
+      "userId": 1,
+      "userName": "Bob John",
+      "email": "test@gmail.com",
+      "profileAvatar": "https://media.licdn.com/dms/image/D4D03AQHBvpVxU5c-pw/profile-displayphoto-shrink_200_200/0/1684511530730?e=1701907200&v=beta&t=bfr3nnCx31SbQj5uD_MQ8MS2Zq4kE68dA8jQuiuPMZQ",
+      "phoneNumber": "0701234567",
+      "userType": "landlord",
+      "subscribed": false,
+      "permisions": {
+        "dashboard": {
+          "access": true
+        },
+        "properties": {
+          "access": true
+        },
+        "profile": {
+          "access": true
+        },
+        "payments": {
+          "access": true
+        },
+        "requests": {
+          "access": true
+        },
+        "notifications": {
+          "access": true
+        },
+        "issues": {
+          "access": true
+        },
+        "settings": {
+          "access": true
+        },
+        "property": {
+          "access": true
+        },
+        "tenant": {
+          "access": true
+        },
+        "tenants": {
+          "access": true
+        },
+        "subscription": {
+          "access": true
+        },
+        "logout": {
+          "access": true
         }
-    ],
-    "tenants": [
-        {
-            "id": 1,
-            "name": "Ian Nani",
-            "email": "nani@gmail.com",
-            "national_Id": 12345678
-        }
-    ],
-    "authLogin":[
-        {
-            "userId":1,
-            "userName":"Bob John",
-            "email":"test@gmail.com",
-		"profileAvatar": "https://media.licdn.com/dms/image/D4D03AQHBvpVxU5c-pw/profile-displayphoto-shrink_200_200/0/1684511530730?e=1701907200&v=beta&t=bfr3nnCx31SbQj5uD_MQ8MS2Zq4kE68dA8jQuiuPMZQ",
-		"phoneNumber": "0701234567",
-            "userType":"landlord",
-		"subscribed": false,
-            "permisions":{
-                "dashboard": {
-                  "access": true
-                },
-                "properties": {
-                    "access":true
-                },
-		"profile": {
-                    "access":true
-                },
-                "payments":{
-                    "access":true
-                },
-                "requests":{
-                    "access":true
-                },
-                "notifications":{
-                    "access":true
-                },
-                "issues":{
-                    "access":true
-                },
-                "settings":{
-                    "access":true
-                },
-		"property": {
-                    "access":true
-                },
-		"tenant": {
-                    "access":true
-                },
-		"tenants": {
-                    "access":true
-                },
-		"subscription": {
-                    "access":true
-                },
-                "logout":{
-                    "access":true
-                }
-            },
-            "isLoggedIn":true
-        }
-    ],
-    "landlord_notifications": [
-        {
-            "id": 1,
-            "tenant_name": "Tony Airo",
-          "house_number": "GTC-B2",
-          "property_name": "GTC",
-          "issue_id": 109,
-          "request_id": null,
-          "payment_id": null,
-          "created_at": "2023-10-02T19:41:49.345Z",
-          "notification_message": "My oven is sparking. Please check on this urgently",
-          "category": "electrical",
-            "status": "read",
-          "date": null,
-          "due_in": null
-        },
-        {
-          "id": 2,
-          "tenant_name": "Pamela Owino",
-          "house_number": "Skywalk A1",
-          "property_name": "Skywalk",
-          "issue_id": null,
-          "request_id": 154,
-          "payment_id": null,
-          "created_at": "2023-10-02T18:30:10.890Z",
-          "notification_message": "This is notice that I intend to vacate the premises at the end of October.",
-          "category": "moving_out",
-             "status": "unread",
-          "date": null,
-          "due_in": null
-        },
-        {
-          "id": 3,
-          "tenant_name": "Rodgers Otieno",
-          "house_number": "S9",
-          "property_name": "Nine Planets",
-          "issue_id": null,
-          "request_id": null,
-          "payment_id": null,
-          "created_at": "2023-10-02T17:29:15.567Z",
-          "notification_message": "Click here for a detailed view of their payment",
-          "category": "rent_payment",
-             "status": "read",
-          "date": null,
-          "due_in": null
-        },
-        {
-          "id": 4,
-          "tenant_name": "Ian Chemweno",
-          "house_number": "K-22",
-          "property_name": "Kimway Apartments",
-          "issue_id": 198,
-          "request_id": null,
-          "payment_id": null,
-          "created_at": "2023-10-02T16:18:40.234Z",
-          "notification_message": "The music from Apartment E4 is too loud at night. Sort this.",
-          "category": "neighbor_complaint",
-             "status": "unread",
-          "date": null,
-          "due_in": null
-        },
-        {
-          "id": 5,
-          "tenant_name": null,
-          "house_number": null,
-          "property_name": null,
-          "issue_id": null,
-          "request_id": null,
-          "payment_id": null,
-          "created_at": "2023-10-02T15:07:22.901Z",
-          "notification_message": "Click the button to download your report.",
-          "category": "report",
-             "status": "unread",
-          "date": "September",
-          "due_in": null
-        },
-         {
-          "id": 6,
-          "tenant_name": "Kimathi Njoki",
-          "house_number": "101",
-          "property_name": "Dallas Texas Apartment",
-          "issue_id": null,
-          "request_id": null,
-          "payment_id": null,
-          "created_at": "2023-10-02T14:56:32.456Z",
-          "notification_message": "Click here for a detailed view of their payment",
-          "category": "rent_payment",
-              "status": "unread",
-          "date": null,
-          "due_in": null
-        },
-         {
-          "id": 7,
-          "tenant_name": "John Oyier",
-          "house_number": "M-125",
-          "property_name": "Karen Gardens",
-          "issue_id": 43,
-          "request_id": null,
-          "payment_id": null,
-          "created_at": "2023-10-02T13:45:01.789Z",
-          "notification_message": "My rent is supposed to be 300,000/- per month, not 100,000/-. I am not a poor man!!",
-          "category": "billing",
-             "status": "read",
-          "date": null,
-          "due_in": null
-        },  {
-          "id": 8,
-          "tenant_name": "Alexis Ndinda",
-          "house_number": "231",
-          "property_name": "Bird Tech Apartments",
-          "issue_id": null,
-          "request_id": 101,
-          "payment_id": null,
-          "created_at": "2023-10-02T12:34:56.123Z",
-          "notification_message": "Would like to book the swimming pool and 10 parking slots this coming Saturday for my guests.",
-          "category": "amenities",
-              "status": "unread",
-          "date": null,
-          "due_in": null
-        }
-    ],
-    "balances": [
+      },
+      "isLoggedIn": true
+    }
+  ],
+  "landlord_notifications": [
+    {
+      "id": 1,
+      "tenant_name": "Tony Airo",
+      "house_number": "GTC-B2",
+      "property_name": "GTC",
+      "issue_id": 109,
+      "request_id": null,
+      "payment_id": null,
+      "created_at": "2023-10-02T19:41:49.345Z",
+      "notification_message": "My oven is sparking. Please check on this urgently",
+      "category": "electrical",
+      "status": "read",
+      "date": null,
+      "due_in": null
+    },
+    {
+      "id": 2,
+      "tenant_name": "Pamela Owino",
+      "house_number": "Skywalk A1",
+      "property_name": "Skywalk",
+      "issue_id": null,
+      "request_id": 154,
+      "payment_id": null,
+      "created_at": "2023-10-02T18:30:10.890Z",
+      "notification_message": "This is notice that I intend to vacate the premises at the end of October.",
+      "category": "moving_out",
+      "status": "unread",
+      "date": null,
+      "due_in": null
+    },
+    {
+      "id": 3,
+      "tenant_name": "Rodgers Otieno",
+      "house_number": "S9",
+      "property_name": "Nine Planets",
+      "issue_id": null,
+      "request_id": null,
+      "payment_id": null,
+      "created_at": "2023-10-02T17:29:15.567Z",
+      "notification_message": "Click here for a detailed view of their payment",
+      "category": "rent_payment",
+      "status": "read",
+      "date": null,
+      "due_in": null
+    },
+    {
+      "id": 4,
+      "tenant_name": "Ian Chemweno",
+      "house_number": "K-22",
+      "property_name": "Kimway Apartments",
+      "issue_id": 198,
+      "request_id": null,
+      "payment_id": null,
+      "created_at": "2023-10-02T16:18:40.234Z",
+      "notification_message": "The music from Apartment E4 is too loud at night. Sort this.",
+      "category": "neighbor_complaint",
+      "status": "unread",
+      "date": null,
+      "due_in": null
+    },
+    {
+      "id": 5,
+      "tenant_name": null,
+      "house_number": null,
+      "property_name": null,
+      "issue_id": null,
+      "request_id": null,
+      "payment_id": null,
+      "created_at": "2023-10-02T15:07:22.901Z",
+      "notification_message": "Click the button to download your report.",
+      "category": "report",
+      "status": "unread",
+      "date": "September",
+      "due_in": null
+    },
+    {
+      "id": 6,
+      "tenant_name": "Kimathi Njoki",
+      "house_number": "101",
+      "property_name": "Dallas Texas Apartment",
+      "issue_id": null,
+      "request_id": null,
+      "payment_id": null,
+      "created_at": "2023-10-02T14:56:32.456Z",
+      "notification_message": "Click here for a detailed view of their payment",
+      "category": "rent_payment",
+      "status": "unread",
+      "date": null,
+      "due_in": null
+    },
+    {
+      "id": 7,
+      "tenant_name": "John Oyier",
+      "house_number": "M-125",
+      "property_name": "Karen Gardens",
+      "issue_id": 43,
+      "request_id": null,
+      "payment_id": null,
+      "created_at": "2023-10-02T13:45:01.789Z",
+      "notification_message": "My rent is supposed to be 300,000/- per month, not 100,000/-. I am not a poor man!!",
+      "category": "billing",
+      "status": "read",
+      "date": null,
+      "due_in": null
+    },
+    {
+      "id": 8,
+      "tenant_name": "Alexis Ndinda",
+      "house_number": "231",
+      "property_name": "Bird Tech Apartments",
+      "issue_id": null,
+      "request_id": 101,
+      "payment_id": null,
+      "created_at": "2023-10-02T12:34:56.123Z",
+      "notification_message": "Would like to book the swimming pool and 10 parking slots this coming Saturday for my guests.",
+      "category": "amenities",
+      "status": "unread",
+      "date": null,
+      "due_in": null
+    }
+  ],
+  "balances": [
     {
       "id": 1,
       "property_id": 1,
@@ -260,32 +253,32 @@
       "amount_total": 1000000,
       "tenants_paid": [
         {
-          "tenant_id": 1, 
-          "tenant_name":"Ryan Florence",
-          "tenant_avatar" : "https://bit.ly/ryan-florence"
+          "tenant_id": 1,
+          "tenant_name": "Ryan Florence",
+          "tenant_avatar": "https://bit.ly/ryan-florence"
         },
         {
-          "tenant_id": 2, 
-          "tenant_name":"Ryan Florence",
-          "tenant_avatar" : "https://bit.ly/ryan-florence"
+          "tenant_id": 2,
+          "tenant_name": "Ryan Florence",
+          "tenant_avatar": "https://bit.ly/ryan-florence"
         },
         {
-          "tenant_id": 3, 
-          "tenant_name":"Ryan Florence",
-          "tenant_avatar" : "https://bit.ly/ryan-florence"
+          "tenant_id": 3,
+          "tenant_name": "Ryan Florence",
+          "tenant_avatar": "https://bit.ly/ryan-florence"
         },
         {
-          "tenant_id": 4, 
-          "tenant_name":"Ryan Florence",
-          "tenant_avatar" : "https://bit.ly/ryan-florence"
+          "tenant_id": 4,
+          "tenant_name": "Ryan Florence",
+          "tenant_avatar": "https://bit.ly/ryan-florence"
         }
       ],
 
       "tenants_pending": [
         {
-          "tenant_id": 1, 
-          "tenant_name":"Ryan Florence",
-          "tenant_avatar" : "https://bit.ly/ryan-florence"
+          "tenant_id": 1,
+          "tenant_name": "Ryan Florence",
+          "tenant_avatar": "https://bit.ly/ryan-florence"
         }
       ]
     }
@@ -307,254 +300,280 @@
       }
     }
   ],
-    "issues": [
-		{
-			"id": 342,
-			"tenant_id": "A21",
-			"tenant_name": "Rodgers Ogada",
-			"house_number": "34",
-			"property_name": "Bird Apartments",
-			"category": "electrical",
-			"title": "Sparking oven. Please fix",
-			"description": "My oven is sparking. Since yesterday. Kindly fix this.",
-			"created_at": "2023-10-02T19:41:49.345Z",
-			"issue_status": "resolved"
-		},
-		{
-			"id": 343,
-			"tenant_id": "B12",
-			"tenant_name": "Alice Johnson",
-			"house_number": "21A",
-			"property_name": "River View Apartments",
-			"category": "plumbing",
-			"title": "Check my water leakage",
-			"description": "There's a water leak in my bathroom. Please send someone to fix it.",
-			"created_at": "2023-10-03T08:15:20.123Z",
-			"issue_status": "pending"
-		},
-		{
-			"id": 346,
-			"tenant_id": "E90",
-			"tenant_name": "Robert Johnson",
-			"house_number": "8C",
-			"property_name": "Meadow Apartments",
-			"category": "miscellaneous",
-			"title": "Cockroaches!!!!!!!!!!!",
-			"description": "There are cockroaches in my kitchen. Please schedule pest control.",
-			"created_at": "2023-10-03T12:20:37.234Z",
-			"issue_status": "pending"
-		},
-	    		{
-			"id": 345,
-			"tenant_id": "D89",
-			"tenant_name": "Emily Davis",
-			"house_number": "22B",
-			"property_name": "Safe Haven Residences",
-			"category": "security",
-			"title": "Nahama next month",
-			"description": "The front door lock is broken. We need it fixed for safety.",
-			"created_at": "2023-10-03T13:27:55.621Z",
-			"issue_status": "pending"
-		}
-	],
-    "requests": [
+  "issues": [
     {
-			"id": 347,
-			"tenant_id": "F34",
-			"tenant_name": "Sarah Brown",
-			"house_number": "55C",
-			"property_name": "Central Park Apartments",
-			"category": "moving_out",
-	    "title": "Nahama next month",
-			"description": "I am moving out at the end of the month.",
-			"created_at": "2023-10-03T18:09:11.987Z",
-			"request_status": "pending"
-		},
-		{
-			"id": 346,
-			"tenant_id": "E12",
-			"tenant_name": "John Williams",
-			"house_number": "8",
-			"property_name": "Green Meadows",
-			"category": "amenities",
-			"title": "Extra Parking",
-			"description": "I need 10 parking slots on Saturday",
-			"created_at": "2023-10-03T15:42:30.456Z",
-			"request_status": "resolved"
-		},
-	    {
-			"id": 3463,
-			"tenant_id": "E12",
-			"tenant_name": "Mike Owino",
-			"house_number": "8",
-			"property_name": "Yellow Meadows",
-			"category": "amenities",
-			"title": "Extra Parking",
-			"description": "I need to book the Swimming Pool on Saturday",
-			"created_at": "2023-10-03T15:42:30.456Z",
-			"request_status": "resolved"
-		}
-    ],
-	"tenants": [
-		{
-			"id": 1,
-			"name": "Ian Chemweno",
-			"avatar_url": "https://bit.ly/dan-abramov",
-			"property_id": 1,
-			"property_name": "Magnolia House",
-			"unit": "MH-1"
-		},
-		{
-			"id": 2,
-			"name": "Kimathi Njoki",
-			"avatar_url": "https://bit.ly/tioluwani-kolawole",
-			"property_id": 1,
-			"property_name": "Magnolia House",
-			"unit": "MH-2"
-		},
-		{
-			"id": 3,
-			"name": "Tonny Airo",
-			"avatar_url": "https://bit.ly/kent-c-dodds",
-			"property_id": 2,
-			"property_name": "Ngong Lane Plaza",
-			"unit": "NLZ-1"
-		},
-		{
-			"id": 4,
-			"name": "Rodgers Ogada",
-			"avatar_url": "https://bit.ly/ryan-florence",
-			"property_id": 2,
-			"property_name": "Ngong Lane Plaza",
-			"unit": "NLZ-2"
-		},
-		{
-			"id": 5,
-			"name": "Pamela Owino",
-			"avatar_url": "https://bit.ly/prosper-baba",
-			"property_id": 3,
-			"property_name": "Nine Planets",
-			"unit": "NP-1"
-		},
-		{
-			"id": 6,
-			"name": "Alexis Musyoki",
-			"avatar_url": "https://bit.ly/sage-adebayo",
-			"property_id": 3,
-			"property_name": "Nine Planets",
-			"unit": "NP-2"
-		}
-	],
-	"occupancy_rate": [
-		{
-			"id": 1,
-			"user_id": 1,
-			"year": 2022,
-			"occupied": [
-				{ "month": "January", "units": 70 },
-				{ "month": "February", "units": 70 },
-				{ "month": "March", "units": 75 },
-				{ "month": "April", "units": 76 },
-				{ "month": "May", "units": 78 },
-				{ "month": "June", "units": 80 },
-				{ "month": "July", "units": 80 },
-				{ "month": "August", "units": 80 },
-				{ "month": "September", "units": 83 },
-				{ "month": "October", "units": 85 },
-				{ "month": "November", "units": 90 },
-				{ "month": "December", "units": 92 }
-			],
-			"vacant": [
-				{ "month": "January", "units": 30 },
-				{ "month": "February", "units": 30 },
-				{ "month": "March", "units": 25 },
-				{ "month": "April", "units": 24 },
-				{ "month": "May", "units": 22 },
-				{ "month": "June", "units": 20 },
-				{ "month": "July", "units": 20 },
-				{ "month": "August", "units": 20 },
-				{ "month": "September", "units": 17 },
-				{ "month": "October", "units": 15 },
-				{ "month": "November", "units": 10 },
-				{ "month": "December", "units": 8 }
-			]			
-		},
-		{
-			"id": 2,
-			"user_id": 2,
-			"year": 2023,
-			"occupied": [
-				{ "month": "January", "units": 92 },
-				{ "month": "February", "units": 90 },
-				{ "month": "March", "units": 88 },
-				{ "month": "April", "units": 90 },
-				{ "month": "May", "units": 90 },
-				{ "month": "June", "units": 92 },
-				{ "month": "July", "units": 94 },
-				{ "month": "August", "units": 94 },
-				{ "month": "September", "units": 95 },
-				{ "month": "October", "units": 100 },
-				{ "month": "November", "units": null },
-				{ "month": "December", "units": null }
-
-			],
-			"vacant": [
-				{ "month": "January", "units": 8 },
-				{ "month": "February", "units": 10 },
-				{ "month": "March", "units": 12 },
-				{ "month": "April", "units": 10 },
-				{ "month": "May", "units": 10 },
-				{ "month": "June", "units": 8 },
-				{ "month": "July", "units": 6 },
-				{ "month": "August", "units": 6 },
-				{ "month": "September", "units": 5 },
-				{ "month": "October", "units": 0 },
-				{ "month": "November", "units": null },
-				{ "month": "December", "units": null }
-
-			]			
-		}		
-
-	],
-	"income_summary": [
-		{
-			"id": 1,
-			"user_id": 1,
-			"year": 2022,
-			"rent_collected": [
-				{ "month": "January", "amount": 700000 },
-				{ "month": "February", "amount": 700000 },
-				{ "month": "March", "amount": 750000 },
-				{ "month": "April", "amount": 760000 },
-				{ "month": "May", "amount": 780000 },
-				{ "month": "June", "amount": 800000 },
-				{ "month": "July", "amount": 800000 },
-				{ "month": "August", "amount": 800000 },
-				{ "month": "September", "amount": 830000 },
-				{ "month": "October", "amount": 850000 },
-				{ "month": "November", "amount": 900000 },
-				{ "month": "December", "amount": 920000 }
-			]
-		},
-		{
-			"id": 2,
-			"user_id": 2,
-			"year": 2023,
-			"rent_collected": [
-				{ "month": "January", "amount": 920000 },
-				{ "month": "February", "amount": 920000 },
-				{ "month": "March", "amount": 900000 },
-				{ "month": "April", "amount": 910000 },
-				{ "month": "May", "amount": 910000 },
-				{ "month": "June", "amount": 940000 },
-				{ "month": "July", "amount": 950000 },
-				{ "month": "August", "amount": 960000 },
-				{ "month": "September", "amount": 960000 },
-				{ "month": "October", "amount": 1000000 },
-				{ "month": "November", "amount": null },
-				{ "month": "December", "amount": null }
-			]
-			
-		}		
-	]
+      "id": 342,
+      "tenant_id": "A21",
+      "tenant_name": "Rodgers Ogada",
+      "house_number": "34",
+      "property_name": "Bird Apartments",
+      "category": "electrical",
+      "title": "Sparking oven. Please fix",
+      "description": "My oven is sparking. Since yesterday. Kindly fix this.",
+      "created_at": "2023-10-02T19:41:49.345Z",
+      "issue_status": "resolved"
+    },
+    {
+      "id": 343,
+      "tenant_id": "B12",
+      "tenant_name": "Alice Johnson",
+      "house_number": "21A",
+      "property_name": "River View Apartments",
+      "category": "plumbing",
+      "title": "Check my water leakage",
+      "description": "There's a water leak in my bathroom. Please send someone to fix it.",
+      "created_at": "2023-10-03T08:15:20.123Z",
+      "issue_status": "pending"
+    },
+    {
+      "id": 346,
+      "tenant_id": "E90",
+      "tenant_name": "Robert Johnson",
+      "house_number": "8C",
+      "property_name": "Meadow Apartments",
+      "category": "miscellaneous",
+      "title": "Cockroaches!!!!!!!!!!!",
+      "description": "There are cockroaches in my kitchen. Please schedule pest control.",
+      "created_at": "2023-10-03T12:20:37.234Z",
+      "issue_status": "pending"
+    },
+    {
+      "id": 345,
+      "tenant_id": "D89",
+      "tenant_name": "Emily Davis",
+      "house_number": "22B",
+      "property_name": "Safe Haven Residences",
+      "category": "security",
+      "title": "Nahama next month",
+      "description": "The front door lock is broken. We need it fixed for safety.",
+      "created_at": "2023-10-03T13:27:55.621Z",
+      "issue_status": "pending"
+    }
+  ],
+  "requests": [
+    {
+      "id": 347,
+      "tenant_id": "F34",
+      "tenant_name": "Sarah Brown",
+      "house_number": "55C",
+      "property_name": "Central Park Apartments",
+      "category": "moving_out",
+      "title": "Nahama next month",
+      "description": "I am moving out at the end of the month.",
+      "created_at": "2023-10-03T18:09:11.987Z",
+      "request_status": "pending"
+    },
+    {
+      "id": 346,
+      "tenant_id": "E12",
+      "tenant_name": "John Williams",
+      "house_number": "8",
+      "property_name": "Green Meadows",
+      "category": "amenities",
+      "title": "Extra Parking",
+      "description": "I need 10 parking slots on Saturday",
+      "created_at": "2023-10-03T15:42:30.456Z",
+      "request_status": "resolved"
+    },
+    {
+      "id": 3463,
+      "tenant_id": "E12",
+      "tenant_name": "Mike Owino",
+      "house_number": "8",
+      "property_name": "Yellow Meadows",
+      "category": "amenities",
+      "title": "Extra Parking",
+      "description": "I need to book the Swimming Pool on Saturday",
+      "created_at": "2023-10-03T15:42:30.456Z",
+      "request_status": "resolved"
+    }
+  ],
+  "tenants": [
+    {
+      "id": 1,
+      "name": "Ian Chemweno",
+      "tenant_number": "123",
+      "avatar_url": "https://bit.ly/dan-abramov",
+      "property_id": 1,
+      "property_name": "Magnolia House",
+      "unit": "MH-1",
+      "rating": 90,
+      "phone_number": "+254708123123",
+      "email": "ian@test.com",
+      "document_url": "https://ianID.pdf"
+    },
+    {
+      "id": 2,
+      "name": "Kimathi Njoki",
+      "tenant_number": "123",
+      "avatar_url": "https://bit.ly/tioluwani-kolawole",
+      "property_id": 1,
+      "property_name": "Magnolia House",
+      "unit": "MH-2",
+      "rating": 90,
+      "phone_number": "+254708123123",
+      "email": "kim@test.com",
+      "document_url": "https://kimID.pdf"
+    },
+    {
+      "id": 3,
+      "name": "Tonny Airo",
+      "tenant_number": "123",
+      "avatar_url": "https://bit.ly/kent-c-dodds",
+      "property_id": 2,
+      "property_name": "Ngong Lane Plaza",
+      "unit": "NLZ-1",
+      "rating": 90,
+      "phone_number": "+254708123123",
+      "email": "ian@test.com",
+      "document_url": "https://ianID.pdf"
+    },
+    {
+      "id": 4,
+      "name": "Rodgers Ogada",
+      "tenant_number": "123",
+      "avatar_url": "https://bit.ly/ryan-florence",
+      "property_id": 2,
+      "property_name": "Ngong Lane Plaza",
+      "unit": "NLZ-2",
+      "rating": 90,
+      "phone_number": "+254708123123",
+      "email": "ian@test.com",
+      "document_url": "https://ianID.pdf"
+    },
+    {
+      "id": 5,
+      "name": "Pamela Owino",
+      "tenant_number": "123",
+      "avatar_url": "https://bit.ly/prosper-baba",
+      "property_id": 3,
+      "property_name": "Nine Planets",
+      "unit": "NP-1",
+      "rating": 90,
+      "phone_number": "+254708123123",
+      "email": "ian@test.com",
+      "document_url": "https://ianID.pdf"
+    },
+    {
+      "id": 6,
+      "name": "Alexis Musyoki",
+      "tenant_number": "123",
+      "avatar_url": "https://bit.ly/sage-adebayo",
+      "property_id": 3,
+      "property_name": "Nine Planets",
+      "unit": "NP-2",
+      "rating": 90,
+      "phone_number": "+254708123123",
+      "email": "ian@test.com",
+      "document_url": "https://ianID.pdf"
+    }
+  ],
+  "occupancy_rate": [
+    {
+      "id": 1,
+      "user_id": 1,
+      "year": 2022,
+      "occupied": [
+        { "month": "January", "units": 70 },
+        { "month": "February", "units": 70 },
+        { "month": "March", "units": 75 },
+        { "month": "April", "units": 76 },
+        { "month": "May", "units": 78 },
+        { "month": "June", "units": 80 },
+        { "month": "July", "units": 80 },
+        { "month": "August", "units": 80 },
+        { "month": "September", "units": 83 },
+        { "month": "October", "units": 85 },
+        { "month": "November", "units": 90 },
+        { "month": "December", "units": 92 }
+      ],
+      "vacant": [
+        { "month": "January", "units": 30 },
+        { "month": "February", "units": 30 },
+        { "month": "March", "units": 25 },
+        { "month": "April", "units": 24 },
+        { "month": "May", "units": 22 },
+        { "month": "June", "units": 20 },
+        { "month": "July", "units": 20 },
+        { "month": "August", "units": 20 },
+        { "month": "September", "units": 17 },
+        { "month": "October", "units": 15 },
+        { "month": "November", "units": 10 },
+        { "month": "December", "units": 8 }
+      ]
+    },
+    {
+      "id": 2,
+      "user_id": 2,
+      "year": 2023,
+      "occupied": [
+        { "month": "January", "units": 92 },
+        { "month": "February", "units": 90 },
+        { "month": "March", "units": 88 },
+        { "month": "April", "units": 90 },
+        { "month": "May", "units": 90 },
+        { "month": "June", "units": 92 },
+        { "month": "July", "units": 94 },
+        { "month": "August", "units": 94 },
+        { "month": "September", "units": 95 },
+        { "month": "October", "units": 100 },
+        { "month": "November", "units": null },
+        { "month": "December", "units": null }
+      ],
+      "vacant": [
+        { "month": "January", "units": 8 },
+        { "month": "February", "units": 10 },
+        { "month": "March", "units": 12 },
+        { "month": "April", "units": 10 },
+        { "month": "May", "units": 10 },
+        { "month": "June", "units": 8 },
+        { "month": "July", "units": 6 },
+        { "month": "August", "units": 6 },
+        { "month": "September", "units": 5 },
+        { "month": "October", "units": 0 },
+        { "month": "November", "units": null },
+        { "month": "December", "units": null }
+      ]
+    }
+  ],
+  "income_summary": [
+    {
+      "id": 1,
+      "user_id": 1,
+      "year": 2022,
+      "rent_collected": [
+        { "month": "January", "amount": 700000 },
+        { "month": "February", "amount": 700000 },
+        { "month": "March", "amount": 750000 },
+        { "month": "April", "amount": 760000 },
+        { "month": "May", "amount": 780000 },
+        { "month": "June", "amount": 800000 },
+        { "month": "July", "amount": 800000 },
+        { "month": "August", "amount": 800000 },
+        { "month": "September", "amount": 830000 },
+        { "month": "October", "amount": 850000 },
+        { "month": "November", "amount": 900000 },
+        { "month": "December", "amount": 920000 }
+      ]
+    },
+    {
+      "id": 2,
+      "user_id": 2,
+      "year": 2023,
+      "rent_collected": [
+        { "month": "January", "amount": 920000 },
+        { "month": "February", "amount": 920000 },
+        { "month": "March", "amount": 900000 },
+        { "month": "April", "amount": 910000 },
+        { "month": "May", "amount": 910000 },
+        { "month": "June", "amount": 940000 },
+        { "month": "July", "amount": 950000 },
+        { "month": "August", "amount": 960000 },
+        { "month": "September", "amount": 960000 },
+        { "month": "October", "amount": 1000000 },
+        { "month": "November", "amount": null },
+        { "month": "December", "amount": null }
+      ]
+    }
+  ]
 }

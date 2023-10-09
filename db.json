@@ -447,6 +447,7 @@
 	],
 	"occupancy_rate": [
 		{
+			"id": 1,
 			"user_id": 1,
 			"year": 2022,
 			"occupied": [
@@ -479,6 +480,7 @@
 			]			
 		},
 		{
+			"id": 2,
 			"user_id": 2,
 			"year": 2023,
 			"occupied": [
@@ -516,6 +518,7 @@
 	],
 	"income_summary": [
 		{
+			"id": 1,
 			"user_id": 1,
 			"year": 2022,
 			"rent_collected": [
@@ -534,6 +537,7 @@
 			]
 		},
 		{
+			"id": 2,
 			"user_id": 2,
 			"year": 2023,
 			"rent_collected": [

@@ -305,7 +305,7 @@
   "issues": [
     {
       "id": 342,
-      "tenant_id": "1",
+      "tenant_id": 1,
       "tenant_name": "Rodgers Ogada",
       "house_number": "34",
       "property_name": "Bird Apartments",
@@ -317,7 +317,7 @@
     },
     {
       "id": 343,
-      "tenant_id": "2",
+      "tenant_id": 2,
       "tenant_name": "Alice Johnson",
       "house_number": "21A",
       "property_name": "River View Apartments",
@@ -329,7 +329,7 @@
     },
     {
       "id": 346,
-      "tenant_id": "9",
+      "tenant_id": 9,
       "tenant_name": "Robert Johnson",
       "house_number": "8C",
       "property_name": "Meadow Apartments",
@@ -341,7 +341,7 @@
     },
     {
       "id": 345,
-      "tenant_id": "8",
+      "tenant_id": 8,
       "tenant_name": "Emily Davis",
       "house_number": "22B",
       "property_name": "Safe Haven Residences",
@@ -355,7 +355,7 @@
   "requests": [
     {
       "id": 347,
-      "tenant_id": "4",
+      "tenant_id": 4,
       "tenant_name": "Sarah Brown",
       "house_number": "55C",
       "property_name": "Central Park Apartments",
@@ -367,7 +367,7 @@
     },
     {
       "id": 346,
-      "tenant_id": "12",
+      "tenant_id": 12,
       "tenant_name": "John Williams",
       "house_number": "8",
       "property_name": "Green Meadows",
@@ -379,7 +379,7 @@
     },
     {
       "id": 3463,
-      "tenant_id": "13",
+      "tenant_id": 13,
       "tenant_name": "Mike Owino",
       "house_number": "8",
       "property_name": "Yellow Meadows",

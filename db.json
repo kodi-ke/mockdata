@@ -78,6 +78,8 @@
       "phoneNumber": "0701234567",
       "userType": "landlord",
       "subscribed": false,
+      "rating": 82,
+      "landlord_number": "L-1234",
       "permisions": {
         "dashboard": {
           "access": true

@@ -444,5 +444,70 @@
 			"property_name": "Nine Planets",
 			"unit": "NP-2"
 		}
-	]
+	],
+	"occupancy_rate": [
+		{
+			"user_id": 1,
+			"year": 2022,
+			"occupied": [
+				{ "month": "January", "units": 70 },
+				{ "month": "February", "units": 70 },
+				{ "month": "March", "units": 75 },
+				{ "month": "April", "units": 76 },
+				{ "month": "May", "units": 78 },
+				{ "month": "June", "units": 80 },
+				{ "month": "July", "units": 80 },
+				{ "month": "August", "units": 80 },
+				{ "month": "September", "units": 83 },
+				{ "month": "October", "units": 85 },
+				{ "month": "November", "units": 90 },
+				{ "month": "December", "units": 92 }
+			],
+			"vacant": [
+				{ "month": "January", "units": 30 },
+				{ "month": "February", "units": 30 },
+				{ "month": "March", "units": 25 },
+				{ "month": "April", "units": 24 },
+				{ "month": "May", "units": 22 },
+				{ "month": "June", "units": 20 },
+				{ "month": "July", "units": 20 },
+				{ "month": "August", "units": 20 },
+				{ "month": "September", "units": 17 },
+				{ "month": "October", "units": 15 },
+				{ "month": "November", "units": 10 },
+				{ "month": "December", "units": 8 }
+			]			
+		},
+		{
+			"user_id": 2,
+			"year": 2023,
+			"occupied": [
+				{ "month": "January", "units": 92 },
+				{ "month": "February", "units": 90 },
+				{ "month": "March", "units": 88 },
+				{ "month": "April", "units": 90 },
+				{ "month": "May", "units": 90 },
+				{ "month": "June", "units": 92 },
+				{ "month": "July", "units": 94 },
+				{ "month": "August", "units": 94 },
+				{ "month": "September", "units": 95 },
+				{ "month": "October", "units": 100 }
+
+			],
+			"vacant": [
+				{ "month": "January", "units": 8 },
+				{ "month": "February", "units": 10 },
+				{ "month": "March", "units": 12 },
+				{ "month": "April", "units": 10 },
+				{ "month": "May", "units": 10 },
+				{ "month": "June", "units": 8 },
+				{ "month": "July", "units": 6 },
+				{ "month": "August", "units": 6 },
+				{ "month": "September", "units": 5 },
+				{ "month": "October", "units": 0 }
+
+			]			
+		}		
+
+	]	
 }

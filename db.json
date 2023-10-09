@@ -461,7 +461,9 @@
 				{ "month": "September", "units": 83 },
 				{ "month": "October", "units": 85 },
 				{ "month": "November", "units": 90 },
-				{ "month": "December", "units": 92 }
+				{ "month": "December", "units": 92 },
+				{ "month": "November", "units": null },
+				{ "month": "December", "units": null }
 			],
 			"vacant": [
 				{ "month": "January", "units": 30 },
@@ -475,7 +477,9 @@
 				{ "month": "September", "units": 17 },
 				{ "month": "October", "units": 15 },
 				{ "month": "November", "units": 10 },
-				{ "month": "December", "units": 8 }
+				{ "month": "December", "units": 8 },
+				{ "month": "November", "units": null },
+				{ "month": "December", "units": null }
 			]			
 		},
 		{
@@ -491,7 +495,9 @@
 				{ "month": "July", "units": 94 },
 				{ "month": "August", "units": 94 },
 				{ "month": "September", "units": 95 },
-				{ "month": "October", "units": 100 }
+				{ "month": "October", "units": 100 },
+				{ "month": "November", "units": null },
+				{ "month": "December", "units": null }
 
 			],
 			"vacant": [
@@ -504,7 +510,9 @@
 				{ "month": "July", "units": 6 },
 				{ "month": "August", "units": 6 },
 				{ "month": "September", "units": 5 },
-				{ "month": "October", "units": 0 }
+				{ "month": "October", "units": 0 },
+				{ "month": "November", "units": null },
+				{ "month": "December", "units": null }
 
 			]			
 		}		

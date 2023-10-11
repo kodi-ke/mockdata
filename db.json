@@ -119,6 +119,15 @@
         },
         "logout": {
           "access": true
+        },
+        "account": {
+          "access": true
+        },
+        "privacy": {
+          "access": true
+        },
+        "support": {
+          "access": true
         }
       },
       "isLoggedIn": true

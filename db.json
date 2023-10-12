@@ -15,6 +15,7 @@
       "moving_out": 2,
       "occupied": 49,
       "vacant": 1,
+      "pending_pay": 50000,
       "location": "Westlands, Nairobi.",
 
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
@@ -47,6 +48,7 @@
       "moving_out": 2,
       "occupied": 17,
       "vacant": 3,
+      "pending_pay": 50000,
       "location": "Ngong rd, Nairobi",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "caretaker_name": "John Nani",

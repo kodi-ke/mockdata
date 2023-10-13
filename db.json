@@ -271,6 +271,7 @@
       "amount_paid": 900000,
       "amount_pending": 0,
       "amount_total": 900000,
+      "paid_percentage": 100,
       "tenants_paid": [
         {
           "tenant_id": 1,
@@ -322,6 +323,7 @@
       "amount_paid": 400000,
       "amount_pending": 50000,
       "amount_total": 450000,
+      "paid_percentage": 89,
       "tenants_paid": [
         {
           "tenant_id": 10,

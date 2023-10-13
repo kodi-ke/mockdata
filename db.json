@@ -267,7 +267,6 @@
   "balances": [
     {
       "id": 1,
-      "property_id": 1,
       "amount_paid": 900000,
       "amount_pending": 0,
       "amount_total": 900000,
@@ -318,7 +317,6 @@
     },
     {
       "id": 2,
-      "property_id": 2,
       "amount_paid": 650000,
       "amount_pending": 50000,
       "amount_total": 700000,

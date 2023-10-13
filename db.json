@@ -318,8 +318,8 @@
     {
       "id": 2,
       "amount_paid": 400000,
-      "amount_pending": 200000,
-      "amount_total": 600000,
+      "amount_pending": 50000,
+      "amount_total": 450000,
       "tenants_paid": [
         {
           "tenant_id": 10,

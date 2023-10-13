@@ -267,6 +267,7 @@
   "balances": [
     {
       "id": 1,
+      "property_id": 1,
       "amount_paid": 900000,
       "amount_pending": 0,
       "amount_total": 900000,
@@ -317,6 +318,7 @@
     },
     {
       "id": 2,
+      "property_id": 2,
       "amount_paid": 400000,
       "amount_pending": 50000,
       "amount_total": 450000,
@@ -367,15 +369,30 @@
       "id": 1,
       "property_id": 1,
       "total_units": 100,
-      "occupied": 90,
-      "percent_occupied": 90,
-      "vacant": 10,
+      "occupied": 49,
+      "percent_occupied": 98,
+      "vacant": 1,
+      "beds_analysis": {
+        "one_bedrooms": 0,
+        "two_bedrooms": 0,
+        "three_bedrooms": 0,
+        "four_bedrooms": 0,
+        "five_bedrooms": 1
+      }
+    },
+    {
+      "id": 2,
+      "property_id": 2,
+      "total_units": 100,
+      "occupied": 17,
+      "percent_occupied": 85,
+      "vacant": 3,
       "beds_analysis": {
         "one_bedrooms": 1,
-        "two_bedrooms": 3,
-        "three_bedrooms": 2,
-        "four_bedrooms": 1,
-        "five_bedrooms": 1
+        "two_bedrooms": 1,
+        "three_bedrooms": 1,
+        "four_bedrooms": 0,
+        "five_bedrooms": 0
       }
     }
   ],

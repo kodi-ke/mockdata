@@ -368,10 +368,11 @@
     {
       "id": 1,
       "property_id": 1,
-      "total_units": 100,
+      "total_units": 50,
       "occupied": 49,
-      "percent_occupied": 98,
       "vacant": 1,
+      "percent_occupied": 98,
+      "percent_vacant": 2,
       "beds_analysis": {
         "one_bedrooms": 0,
         "two_bedrooms": 0,
@@ -383,10 +384,11 @@
     {
       "id": 2,
       "property_id": 2,
-      "total_units": 100,
+      "total_units": 20,
       "occupied": 17,
-      "percent_occupied": 85,
       "vacant": 3,
+      "percent_occupied": 85,
+      "percent_vacant": 2,
       "beds_analysis": {
         "one_bedrooms": 1,
         "two_bedrooms": 1,

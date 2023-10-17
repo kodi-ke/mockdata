@@ -501,7 +501,8 @@
       "rating": 90,
       "phone_number": "+254708123123",
       "email": "ian@test.com",
-      "document_url": "https://ianID.pdf"
+      "document_url": "https://ianID.pdf",
+      "arrears": 40000
     },
     {
       "id": 2,
@@ -514,7 +515,8 @@
       "rating": 90,
       "phone_number": "+254708123123",
       "email": "kim@test.com",
-      "document_url": "https://kimID.pdf"
+      "document_url": "https://kimID.pdf",
+      "arrears": 40000
     },
     {
       "id": 3,
@@ -526,8 +528,9 @@
       "unit": "NLZ-1",
       "rating": 90,
       "phone_number": "+254708123123",
-      "email": "ian@test.com",
-      "document_url": "https://ianID.pdf"
+      "email": "airo@test.com",
+      "document_url": "https://ianID.pdf",
+      "arrears": 40000
     },
     {
       "id": 4,
@@ -539,8 +542,9 @@
       "unit": "NLZ-2",
       "rating": 90,
       "phone_number": "+254708123123",
-      "email": "ian@test.com",
-      "document_url": "https://ianID.pdf"
+      "email": "ogada@test.com",
+      "document_url": "https://ianID.pdf",
+      "arrears": 0
     },
     {
       "id": 5,
@@ -552,8 +556,9 @@
       "unit": "NP-1",
       "rating": 90,
       "phone_number": "+254708123123",
-      "email": "ian@test.com",
-      "document_url": "https://ianID.pdf"
+      "email": "pamela@test.com",
+      "document_url": "https://ianID.pdf",
+      "arrears": 0
     },
     {
       "id": 6,
@@ -565,8 +570,9 @@
       "unit": "NP-2",
       "rating": 90,
       "phone_number": "+254708123123",
-      "email": "ian@test.com",
-      "document_url": "https://ianID.pdf"
+      "email": "alexis@test.com",
+      "document_url": "https://ianID.pdf",
+      "arrears": 0
     }
   ],
   "occupancy_rate": [

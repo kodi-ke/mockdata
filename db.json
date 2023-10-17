@@ -25,6 +25,7 @@
       "property_agent": "ABC Realtors",
       "parking_spots": true,
       "amenities": {
+        "parking_spots": true,
         "playground": true,
         "swimming_pool": true,
         "lift": true,

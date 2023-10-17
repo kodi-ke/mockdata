@@ -502,7 +502,10 @@
       "phone_number": "+254708123123",
       "email": "ian@test.com",
       "document_url": "https://ianID.pdf",
-      "arrears": 40000
+      "arrears": 40000, 
+      "occupation": "Software engineer",
+      "household_size": 5,
+      "next_of_kin": "Juliet Chebet"
     },
     {
       "id": 2,
@@ -516,7 +519,10 @@
       "phone_number": "+254708123123",
       "email": "kim@test.com",
       "document_url": "https://kimID.pdf",
-      "arrears": 40000
+      "arrears": 40000,
+      "occupation": "Software engineer",
+      "household_size": 5,
+      "next_of_kin": "Sarah Kimani"
     },
     {
       "id": 3,
@@ -530,7 +536,10 @@
       "phone_number": "+254708123123",
       "email": "airo@test.com",
       "document_url": "https://ianID.pdf",
-      "arrears": 40000
+      "arrears": 40000,
+      "occupation": "Software engineer",
+      "household_size": 5,
+      "next_of_kin": "Lyra Airo"
     },
     {
       "id": 4,
@@ -544,7 +553,10 @@
       "phone_number": "+254708123123",
       "email": "ogada@test.com",
       "document_url": "https://ianID.pdf",
-      "arrears": 0
+      "arrears": 0,
+      "occupation": "Software engineer",
+      "household_size": 5,
+      "next_of_kin": "Mercy Ogada"
     },
     {
       "id": 5,
@@ -558,7 +570,10 @@
       "phone_number": "+254708123123",
       "email": "pamela@test.com",
       "document_url": "https://ianID.pdf",
-      "arrears": 0
+      "arrears": 0,
+      "occupation": "Software engineer",
+      "household_size": 5,
+      "next_of_kin": "Owino Owino"
     },
     {
       "id": 6,
@@ -572,7 +587,10 @@
       "phone_number": "+254708123123",
       "email": "alexis@test.com",
       "document_url": "https://ianID.pdf",
-      "arrears": 0
+      "arrears": 0,
+      "occupation": "Software engineer",
+      "household_size": 5,
+      "next_of_kin": "Alex Kilunda"
     }
   ],
   "occupancy_rate": [

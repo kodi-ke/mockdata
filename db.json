@@ -88,6 +88,7 @@
       "phoneNumber": "0701234567",
       "userType": "landlord",
       "subscribed": false,
+      "subscription_amount": 4500,
       "rating": 82,
       "landlord_number": "L-1234",
       "permisions": {

@@ -702,7 +702,7 @@
       ]
     }
   ],
-  "/tenant/login": [
+  "tenantLogin": [
     {
       "userId": 1,
       "userName": "Bob John",

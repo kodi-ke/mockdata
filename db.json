@@ -701,5 +701,70 @@
         { "month": "December", "amount": null }
       ]
     }
+  ],
+  "/tenant/login": [
+    {
+      "userId": 1,
+      "userName": "Bob John",
+      "email": "test@gmail.com",
+      "profileAvatar": "https://media.licdn.com/dms/image/D4D03AQHBvpVxU5c-pw/profile-displayphoto-shrink_200_200/0/1684511530730?e=1701907200&v=beta&t=bfr3nnCx31SbQj5uD_MQ8MS2Zq4kE68dA8jQuiuPMZQ",
+      "phoneNumber": "0701234567",
+      "userType": "landlord",
+      "subscribed": false,
+      "subscription_amount": 4500,
+      "rating": 82,
+      "landlord_number": "L-1234",
+      "permissions": {
+        "dashboard": {
+          "access": true
+        },
+        "properties": {
+          "access": false
+        },
+        "profile": {
+          "access": true
+        },
+        "payments": {
+          "access": true
+        },
+        "requests": {
+          "access": true
+        },
+        "notifications": {
+          "access": true
+        },
+        "issues": {
+          "access": true
+        },
+        "settings": {
+          "access": true
+        },
+        "property": {
+          "access": false
+        },
+        "tenant": {
+          "access": false
+        },
+        "tenants": {
+          "access": false
+        },
+        "subscription": {
+          "access": false
+        },
+        "logout": {
+          "access": true
+        },
+        "account": {
+          "access": true
+        },
+        "privacy": {
+          "access": true
+        },
+        "support": {
+          "access": true
+        }
+      },
+      "isLoggedIn": true
+    }
   ]
 }

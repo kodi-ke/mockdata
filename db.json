@@ -90,7 +90,7 @@
       "subscription_amount": 4500,
       "rating": 82,
       "landlord_number": "L-1234",
-      "permisions": {
+      "permissions": {
         "dashboard": {
           "access": true
         },

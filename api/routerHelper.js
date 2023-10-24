@@ -1,18 +1,18 @@
 export default function RouterHelper(server,router){
     server.post('/landlord/login', (req, res) => {
- 
-        res.status(201).json(router.db.get('authLogin'));
+         
+        res.status(201).json(router.db.get('authLogin')[0]);
       });
       server.post('/tenant/login', (req, res) => {
  
-        res.status(201).json(router.db.get('tenant'));
+        res.status(201).json(router.db.get('tenant')[0]);
       });
       server.post('/caretaker/login', (req, res) => {
  
-        res.status(201).json(router.db.get('caretaker'));
+        res.status(201).json(router.db.get('caretaker')[0]);
       });
       server.post('/agent/login', (req, res) => {
  
-        res.status(201).json(router.db.get('agent'));
+        res.status(201).json(router.db.get('agent')[0]);
       });
 }

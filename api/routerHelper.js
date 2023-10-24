@@ -3,7 +3,7 @@ export default function RouterHelper(server,router){
          const landlordData = router.db.get('authLogin');
         res.status(201).json({
           data:landlordData,
-          test:landlordData
+          test:landlordData[0]
         });
       });
       server.post('/tenant/login', (req, res) => {

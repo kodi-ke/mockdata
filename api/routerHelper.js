@@ -1,6 +1,8 @@
 export default function RouterHelper(server,router){
-    server.post('/landlord/login', (req, res) => {
-         const landlordData =router.db.get('authLogin'); // [{}][0]
+    server.post('/landlord/login',async (req, res) => {
+         const landlordData = await router.db.get('authLogin'); // [{}][0]
+         console.log(landlordData,'actual');
+         console.log(landlordData[0],'indexed')
         res.status(201).json({
           data:landlordData,
           test:landlordData[0]

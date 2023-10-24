@@ -951,6 +951,8 @@
       "isLoggedIn": true
     },
   "tenant_pending_payment": {
+    "id":1,
+    "tenant_id":1,
     "month": "June",
     "rent": 85000,
     "water_bill": 2000,
@@ -958,6 +960,5 @@
     "amount_paid": 50000,
     "pending_pay": 38000,
     "amount_total": 88000
-
   }
 }

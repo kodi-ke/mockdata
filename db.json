@@ -833,7 +833,6 @@
       "profileAvatar": "https://avatars.githubusercontent.com/u/109057763?v=4",
       "phoneNumber": "0701234567",
       "userType": "tenant",
-      "subscribed": false,
       "rating": 82,
       "tenant_number": "T-1234",
       "permissions": {
@@ -950,5 +949,15 @@
         }
       },
       "isLoggedIn": true
-    }
+    },
+  "tenant_pending_payment": {
+    "month": "June",
+    "rent": 85000,
+    "water_bill": 2000,
+    "garbage": 1000,
+    "amount_paid": 50000,
+    "pending_pay": 38000,
+    "amount_total": 88000
+
+  }
 }

@@ -1,6 +1,6 @@
 export default function RouterHelper(server,router){
     server.post('/landlord/login', (req, res) => {
-         const landlordData = router.db.get('authLogin');
+         const landlordData =JSON.parse(router.db.get('authLogin'));
         res.status(201).json({
           data:landlordData,
           test:landlordData[0]

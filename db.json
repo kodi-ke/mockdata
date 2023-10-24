@@ -828,15 +828,15 @@
     },
   "tenant": {
       "userId": 1,
-      "userName": "Bob John",
+      "userName": "Rodgers Ogada",
       "email": "test@gmail.com",
       "profileAvatar": "https://media.licdn.com/dms/image/D4D03AQHBvpVxU5c-pw/profile-displayphoto-shrink_200_200/0/1684511530730?e=1701907200&v=beta&t=bfr3nnCx31SbQj5uD_MQ8MS2Zq4kE68dA8jQuiuPMZQ",
       "phoneNumber": "0701234567",
-      "userType": "landlord",
+      "userType": "tenant",
       "subscribed": false,
       "subscription_amount": 4500,
       "rating": 82,
-      "landlord_number": "L-1234",
+      "landlord_number": "T-1234",
       "permissions": {
         "dashboard": {
           "access": true

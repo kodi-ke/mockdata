@@ -80,68 +80,68 @@
     }
   ],
   "authLogin": {
-      "userId": 1,
-      "userName": "Bob John",
-      "email": "test@gmail.com",
-      "profileAvatar": "https://media.licdn.com/dms/image/D4D03AQHBvpVxU5c-pw/profile-displayphoto-shrink_200_200/0/1684511530730?e=1701907200&v=beta&t=bfr3nnCx31SbQj5uD_MQ8MS2Zq4kE68dA8jQuiuPMZQ",
-      "phoneNumber": "0701234567",
-      "userType": "landlord",
-      "subscribed": false,
-      "subscription_amount": 4500,
-      "rating": 82,
-      "landlord_number": "L-1234",
-      "permissions": {
-        "dashboard": {
-          "access": true
-        },
-        "properties": {
-          "access": true
-        },
-        "profile": {
-          "access": true
-        },
-        "payments": {
-          "access": true
-        },
-        "requests": {
-          "access": true
-        },
-        "notifications": {
-          "access": true
-        },
-        "issues": {
-          "access": true
-        },
-        "settings": {
-          "access": true
-        },
-        "property": {
-          "access": true
-        },
-        "tenant": {
-          "access": true
-        },
-        "tenants": {
-          "access": true
-        },
-        "subscription": {
-          "access": true
-        },
-        "logout": {
-          "access": true
-        },
-        "account": {
-          "access": true
-        },
-        "privacy": {
-          "access": true
-        },
-        "support": {
-          "access": true
-        }
+    "userId": 1,
+    "userName": "Bob John",
+    "email": "test@gmail.com",
+    "profileAvatar": "https://media.licdn.com/dms/image/D4D03AQHBvpVxU5c-pw/profile-displayphoto-shrink_200_200/0/1684511530730?e=1701907200&v=beta&t=bfr3nnCx31SbQj5uD_MQ8MS2Zq4kE68dA8jQuiuPMZQ",
+    "phoneNumber": "0701234567",
+    "userType": "landlord",
+    "subscribed": false,
+    "subscription_amount": 4500,
+    "rating": 82,
+    "landlord_number": "L-1234",
+    "permissions": {
+      "dashboard": {
+        "access": true
       },
-      "isLoggedIn": true
+      "properties": {
+        "access": true
+      },
+      "profile": {
+        "access": true
+      },
+      "payments": {
+        "access": true
+      },
+      "requests": {
+        "access": true
+      },
+      "notifications": {
+        "access": true
+      },
+      "issues": {
+        "access": true
+      },
+      "settings": {
+        "access": true
+      },
+      "property": {
+        "access": true
+      },
+      "tenant": {
+        "access": true
+      },
+      "tenants": {
+        "access": true
+      },
+      "subscription": {
+        "access": true
+      },
+      "logout": {
+        "access": true
+      },
+      "account": {
+        "access": true
+      },
+      "privacy": {
+        "access": true
+      },
+      "support": {
+        "access": true
+      }
     },
+    "isLoggedIn": true
+  },
   "landlord_notifications": [
     {
       "id": 1,
@@ -501,7 +501,7 @@
       "phone_number": "+254708123123",
       "email": "ian@test.com",
       "document_url": "https://ianID.pdf",
-      "arrears": 40000, 
+      "arrears": 40000,
       "occupation": "Software engineer",
       "household_size": 5,
       "next_of_kin": "Juliet Chebet"
@@ -701,259 +701,259 @@
     }
   ],
   "tenantLogin": {
-      "userId": 1,
-      "userName": "Rodgers Ogada",
-      "email": "test@gmail.com",
-      "profileAvatar": "https://media.licdn.com/dms/image/D4D03AQHBvpVxU5c-pw/profile-displayphoto-shrink_200_200/0/1684511530730?e=1701907200&v=beta&t=bfr3nnCx31SbQj5uD_MQ8MS2Zq4kE68dA8jQuiuPMZQ",
-      "phoneNumber": "0701234567",
-      "userType": "tenant",
-      "subscribed": false,
-      "subscription_amount": 4500,
-      "rating": 82,
-      "landlord_number": "T-1234",
-      "permissions": {
-        "dashboard": {
-          "access": true
-        },
-        "properties": {
-          "access": false
-        },
-        "profile": {
-          "access": true
-        },
-        "payments": {
-          "access": true
-        },
-        "requests": {
-          "access": true
-        },
-        "notifications": {
-          "access": true
-        },
-        "issues": {
-          "access": true
-        },
-        "settings": {
-          "access": true
-        },
-        "property": {
-          "access": false
-        },
-        "tenant": {
-          "access": false
-        },
-        "tenants": {
-          "access": false
-        },
-        "subscription": {
-          "access": false
-        },
-        "logout": {
-          "access": true
-        },
-        "account": {
-          "access": true
-        },
-        "privacy": {
-          "access": true
-        },
-        "support": {
-          "access": true
-        }
+    "userId": 1,
+    "userName": "Rodgers Ogada",
+    "email": "test@gmail.com",
+    "profileAvatar": "https://media.licdn.com/dms/image/D4D03AQHBvpVxU5c-pw/profile-displayphoto-shrink_200_200/0/1684511530730?e=1701907200&v=beta&t=bfr3nnCx31SbQj5uD_MQ8MS2Zq4kE68dA8jQuiuPMZQ",
+    "phoneNumber": "0701234567",
+    "userType": "tenant",
+    "subscribed": false,
+    "subscription_amount": 4500,
+    "rating": 82,
+    "landlord_number": "T-1234",
+    "permissions": {
+      "dashboard": {
+        "access": true
       },
-      "isLoggedIn": true
+      "properties": {
+        "access": false
+      },
+      "profile": {
+        "access": true
+      },
+      "payments": {
+        "access": true
+      },
+      "requests": {
+        "access": true
+      },
+      "notifications": {
+        "access": true
+      },
+      "issues": {
+        "access": true
+      },
+      "settings": {
+        "access": true
+      },
+      "property": {
+        "access": false
+      },
+      "tenant": {
+        "access": false
+      },
+      "tenants": {
+        "access": false
+      },
+      "subscription": {
+        "access": false
+      },
+      "logout": {
+        "access": true
+      },
+      "account": {
+        "access": true
+      },
+      "privacy": {
+        "access": true
+      },
+      "support": {
+        "access": true
+      }
     },
+    "isLoggedIn": true
+  },
   "caretaker": {
-      "userId": 1,
-      "userName": "Bob John",
-      "email": "test@gmail.com",
-      "profileAvatar": "https://media.licdn.com/dms/image/D4D03AQHBvpVxU5c-pw/profile-displayphoto-shrink_200_200/0/1684511530730?e=1701907200&v=beta&t=bfr3nnCx31SbQj5uD_MQ8MS2Zq4kE68dA8jQuiuPMZQ",
-      "phoneNumber": "0701234567",
-      "userType": "landlord",
-      "subscribed": false,
-      "subscription_amount": 4500,
-      "rating": 82,
-      "landlord_number": "L-1234",
-      "permissions": {
-        "dashboard": {
-          "access": true
-        },
-        "properties": {
-          "access": false
-        },
-        "profile": {
-          "access": true
-        },
-        "payments": {
-          "access": true
-        },
-        "requests": {
-          "access": true
-        },
-        "notifications": {
-          "access": true
-        },
-        "issues": {
-          "access": true
-        },
-        "settings": {
-          "access": true
-        },
-        "property": {
-          "access": false
-        },
-        "tenant": {
-          "access": false
-        },
-        "tenants": {
-          "access": false
-        },
-        "subscription": {
-          "access": false
-        },
-        "logout": {
-          "access": true
-        },
-        "account": {
-          "access": true
-        },
-        "privacy": {
-          "access": true
-        },
-        "support": {
-          "access": true
-        }
+    "userId": 1,
+    "userName": "Bob John",
+    "email": "test@gmail.com",
+    "profileAvatar": "https://media.licdn.com/dms/image/D4D03AQHBvpVxU5c-pw/profile-displayphoto-shrink_200_200/0/1684511530730?e=1701907200&v=beta&t=bfr3nnCx31SbQj5uD_MQ8MS2Zq4kE68dA8jQuiuPMZQ",
+    "phoneNumber": "0701234567",
+    "userType": "landlord",
+    "subscribed": false,
+    "subscription_amount": 4500,
+    "rating": 82,
+    "landlord_number": "L-1234",
+    "permissions": {
+      "dashboard": {
+        "access": true
       },
-      "isLoggedIn": true
+      "properties": {
+        "access": false
+      },
+      "profile": {
+        "access": true
+      },
+      "payments": {
+        "access": true
+      },
+      "requests": {
+        "access": true
+      },
+      "notifications": {
+        "access": true
+      },
+      "issues": {
+        "access": true
+      },
+      "settings": {
+        "access": true
+      },
+      "property": {
+        "access": false
+      },
+      "tenant": {
+        "access": false
+      },
+      "tenants": {
+        "access": false
+      },
+      "subscription": {
+        "access": false
+      },
+      "logout": {
+        "access": true
+      },
+      "account": {
+        "access": true
+      },
+      "privacy": {
+        "access": true
+      },
+      "support": {
+        "access": true
+      }
     },
+    "isLoggedIn": true
+  },
   "tenant": {
-      "userId": 1,
-      "userName": "Rodgers Ogada",
-      "email": "ogada@test.com",
-      "profileAvatar": "https://avatars.githubusercontent.com/u/109057763?v=4",
-      "phoneNumber": "0701234567",
-      "userType": "tenant",
-      "rating": 82,
-      "tenant_number": "T-1234",
-      "permissions": {
-        "dashboard": {
-          "access": true
-        },
-        "properties": {
-          "access": false
-        },
-        "profile": {
-          "access": true
-        },
-        "payments": {
-          "access": true
-        },
-        "requests": {
-          "access": true
-        },
-        "notifications": {
-          "access": true
-        },
-        "issues": {
-          "access": true
-        },
-        "settings": {
-          "access": true
-        },
-        "property": {
-          "access": false
-        },
-        "tenant": {
-          "access": false
-        },
-        "tenants": {
-          "access": false
-        },
-        "subscription": {
-          "access": false
-        },
-        "logout": {
-          "access": true
-        },
-        "account": {
-          "access": true
-        },
-        "privacy": {
-          "access": true
-        },
-        "support": {
-          "access": true
-        }
+    "userId": 1,
+    "userName": "Rodgers Ogada",
+    "email": "ogada@test.com",
+    "profileAvatar": "https://avatars.githubusercontent.com/u/109057763?v=4",
+    "phoneNumber": "0701234567",
+    "userType": "tenant",
+    "rating": 82,
+    "tenant_number": "T-1234",
+    "permissions": {
+      "dashboard": {
+        "access": true
       },
-      "isLoggedIn": true
+      "properties": {
+        "access": false
+      },
+      "profile": {
+        "access": true
+      },
+      "payments": {
+        "access": true
+      },
+      "requests": {
+        "access": true
+      },
+      "notifications": {
+        "access": true
+      },
+      "issues": {
+        "access": true
+      },
+      "settings": {
+        "access": true
+      },
+      "property": {
+        "access": false
+      },
+      "tenant": {
+        "access": false
+      },
+      "tenants": {
+        "access": false
+      },
+      "subscription": {
+        "access": false
+      },
+      "logout": {
+        "access": true
+      },
+      "account": {
+        "access": true
+      },
+      "privacy": {
+        "access": true
+      },
+      "support": {
+        "access": true
+      }
     },
+    "isLoggedIn": true
+  },
   "agent": {
-      "userId": 1,
-      "userName": "Bob John",
-      "email": "test@gmail.com",
-      "profileAvatar": "https://media.licdn.com/dms/image/D4D03AQHBvpVxU5c-pw/profile-displayphoto-shrink_200_200/0/1684511530730?e=1701907200&v=beta&t=bfr3nnCx31SbQj5uD_MQ8MS2Zq4kE68dA8jQuiuPMZQ",
-      "phoneNumber": "0701234567",
-      "userType": "landlord",
-      "subscribed": false,
-      "subscription_amount": 4500,
-      "rating": 82,
-      "landlord_number": "L-1234",
-      "permissions": {
-        "dashboard": {
-          "access": true
-        },
-        "properties": {
-          "access": false
-        },
-        "profile": {
-          "access": true
-        },
-        "payments": {
-          "access": true
-        },
-        "requests": {
-          "access": true
-        },
-        "notifications": {
-          "access": true
-        },
-        "issues": {
-          "access": true
-        },
-        "settings": {
-          "access": true
-        },
-        "property": {
-          "access": false
-        },
-        "tenant": {
-          "access": false
-        },
-        "tenants": {
-          "access": false
-        },
-        "subscription": {
-          "access": false
-        },
-        "logout": {
-          "access": true
-        },
-        "account": {
-          "access": true
-        },
-        "privacy": {
-          "access": true
-        },
-        "support": {
-          "access": true
-        }
+    "userId": 1,
+    "userName": "Bob John",
+    "email": "test@gmail.com",
+    "profileAvatar": "https://media.licdn.com/dms/image/D4D03AQHBvpVxU5c-pw/profile-displayphoto-shrink_200_200/0/1684511530730?e=1701907200&v=beta&t=bfr3nnCx31SbQj5uD_MQ8MS2Zq4kE68dA8jQuiuPMZQ",
+    "phoneNumber": "0701234567",
+    "userType": "landlord",
+    "subscribed": false,
+    "subscription_amount": 4500,
+    "rating": 82,
+    "landlord_number": "L-1234",
+    "permissions": {
+      "dashboard": {
+        "access": true
       },
-      "isLoggedIn": true
+      "properties": {
+        "access": false
+      },
+      "profile": {
+        "access": true
+      },
+      "payments": {
+        "access": true
+      },
+      "requests": {
+        "access": true
+      },
+      "notifications": {
+        "access": true
+      },
+      "issues": {
+        "access": true
+      },
+      "settings": {
+        "access": true
+      },
+      "property": {
+        "access": false
+      },
+      "tenant": {
+        "access": false
+      },
+      "tenants": {
+        "access": false
+      },
+      "subscription": {
+        "access": false
+      },
+      "logout": {
+        "access": true
+      },
+      "account": {
+        "access": true
+      },
+      "privacy": {
+        "access": true
+      },
+      "support": {
+        "access": true
+      }
     },
+    "isLoggedIn": true
+  },
   "tenant_pending_payment": [
     {
-      "id":1,
-      "tenant_id":1,
+      "id": 1,
+      "tenant_id": 1,
       "month": "June",
       "rent": 85000,
       "water_bill": 2000,
@@ -961,6 +961,38 @@
       "amount_paid": 50000,
       "pending_pay": 38000,
       "amount_total": 88000
-    } 
-    ]
+    }
+  ],
+  "tenant_successful_payment": [
+    {
+      "id": 1,
+      "tenant_id": 1,
+      "month": "March",
+      "rent": 85000,
+      "water_bill": 2000,
+      "garbage": 1000,
+      "amount_total": 88000,
+      "amount_paid": 88000
+    },
+    {
+      "id": 2,
+      "tenant_id": 1,
+      "month": "April",
+      "rent": 85000,
+      "water_bill": 2000,
+      "garbage": 1000,
+      "amount_total": 88000,
+      "amount_paid": 88000
+    },
+    {
+      "id": 3,
+      "tenant_id": 1,
+      "month": "May",
+      "rent": 85000,
+      "water_bill": 2000,
+      "garbage": 1000,
+      "amount_total": 88000,
+      "amount_paid": 88000
+    }
+  ]
 }

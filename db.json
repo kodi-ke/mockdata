@@ -79,8 +79,7 @@
       "rent": 100000
     }
   ],
-  "authLogin": [
-    {
+  "authLogin": {
       "userId": 1,
       "userName": "Bob John",
       "email": "test@gmail.com",
@@ -142,8 +141,7 @@
         }
       },
       "isLoggedIn": true
-    }
-  ],
+    },
   "landlord_notifications": [
     {
       "id": 1,

@@ -1008,6 +1008,7 @@
     {
       "id": 1,
       "tenant_id":1,
+      "unit_id": 1,
       "rent": 80000,
       "paybill_number": 247247,
       "account_number": 123456789,

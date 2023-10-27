@@ -1014,9 +1014,8 @@
       "account_number": 123456789,
       "house_number": "Skywalk A1"
     }
-  ]
-},
- "tenant_notifications": [
+  ],
+  "tenant_notifications": [
     {
       "id": 1,
       "tenant_name": null,

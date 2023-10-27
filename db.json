@@ -1073,8 +1073,8 @@
       "notification_message": "Your rent is due in 5 days.",
       "category": "rent_reminder",
       "status": "unread",
-      "date": null,
-      "due_in": null
+      "date": "October",
+      "due_in": 5
     },
     {
       "id": 5,
@@ -1088,7 +1088,7 @@
       "notification_message": "The stairway rails are loose. Be careful while using them, especially children.",
       "category": "alert",
       "status": "unread",
-      "date": "September",
+      "date": null,
       "due_in": null
     }
   ]

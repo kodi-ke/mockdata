@@ -1127,4 +1127,39 @@
       "issue_status": "resolved"
     }
   ]
+  "tenant_requests": [
+    {
+      "id": 1,
+      "tenant_id": 1,
+      "house_number": "34",
+      "property_name": "Bird Apartments",
+      "category": "moving_out",
+      "title": "I am moving out on November 30th",
+      "description": "Organize for house inspection to be done in good time. And make plans to refund my deposit. Thanks",
+      "created_at": "2023-10-02T19:41:49.345Z",
+      "request_status": "approved"
+    },
+    {
+      "id": 2,
+      "tenant_id": 1,
+      "house_number": "34",
+      "property_name": "Bird Apartments",
+      "category": "amenities",
+      "title": "Extra Parking for Saturday.",
+      "description": "I have visitors coming over. Is it possible to allocate me 30 extra parking slots? Please get back to me in time.",
+      "created_at": "2023-10-02T19:41:49.345Z",
+      "request_status": "approved"
+    },
+    {
+      "id": 3,
+      "tenant_id": 1,
+      "house_number": "34",
+      "property_name": "Bird Apartments",
+      "category": "miscellaneous",
+      "title": "Noise from my apartment past quiet hours.",
+      "description": "I will be throwing a party at my house and it will continue till 4a.m",
+      "created_at": "2023-10-02T19:41:49.345Z",
+      "request_status": "declined"
+    }
+  ]
 }

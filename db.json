@@ -1092,7 +1092,7 @@
       "due_in": null
     }
   ],
-  "issues": [
+  "tenant_issues": [
     {
       "tenant_id": 1,
       "house_number": "34",

@@ -140,7 +140,8 @@
         "access": true
       }
     },
-    "isLoggedIn": true
+    "isLoggedIn": true,
+    "roles": ["landlord"]
   },
   "landlord_notifications": [
     {
@@ -824,7 +825,8 @@
         "access": true
       }
     },
-    "isLoggedIn": true
+    "isLoggedIn": true,
+    "roles": ["caretaker", "tenant"]
   },
   "tenant": {
     "userId": 1,
@@ -888,7 +890,8 @@
         "access":true
       }
     },
-    "isLoggedIn": true
+    "isLoggedIn": true,
+    "roles": ["landlord", "tenant"]
   },
   "agent": {
     "userId": 1,
@@ -951,7 +954,8 @@
         "access": true
       }
     },
-    "isLoggedIn": true
+    "isLoggedIn": true,
+    "roles": ["agent", "tenant"]
   },
   "tenant_pending_payment": [
     {

@@ -1172,7 +1172,7 @@
 			"category": "total_tenants",
 			"data": {
 				"total": 5,
-				"last_month": 10
+				"comparison": -50
 			}
 		},
 		{
@@ -1180,7 +1180,7 @@
 			"category": "total_issues",
 			"data": {
 				"total": 23,
-				"last_month": 10
+				"comparison": 63
 			}
 		},
 		{
@@ -1188,7 +1188,7 @@
 			"category": "total_requests",
 			"data": {
 				"total": 0,
-				"last_month": 0
+				"comparison": 0
 			}
 		}
 	]

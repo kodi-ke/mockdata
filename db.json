@@ -662,44 +662,65 @@
     }
   ],
   "income_summary": [
-    {
-      "id": 1,
-      "user_id": 1,
-      "year": 2022,
-      "rent_collected": [
-        { "month": "January", "amount": 700000 },
-        { "month": "February", "amount": 700000 },
-        { "month": "March", "amount": 750000 },
-        { "month": "April", "amount": 760000 },
-        { "month": "May", "amount": 780000 },
-        { "month": "June", "amount": 800000 },
-        { "month": "July", "amount": 800000 },
-        { "month": "August", "amount": 800000 },
-        { "month": "September", "amount": 830000 },
-        { "month": "October", "amount": 850000 },
-        { "month": "November", "amount": 900000 },
-        { "month": "December", "amount": 920000 }
-      ]
-    },
-    {
-      "id": 2,
-      "user_id": 2,
-      "year": 2023,
-      "rent_collected": [
-        { "month": "January", "amount": 920000 },
-        { "month": "February", "amount": 920000 },
-        { "month": "March", "amount": 900000 },
-        { "month": "April", "amount": 910000 },
-        { "month": "May", "amount": 910000 },
-        { "month": "June", "amount": 940000 },
-        { "month": "July", "amount": 950000 },
-        { "month": "August", "amount": 960000 },
-        { "month": "September", "amount": 960000 },
-        { "month": "October", "amount": 1000000 },
-        { "month": "November", "amount": null },
-        { "month": "December", "amount": null }
-      ]
-    }
+   {
+	"year": 2023,
+	"rental_data": [
+		{
+			"month": 1,
+			"rent": 11000
+		},
+		{
+			"month": 2,
+			"rent": 14000
+		},
+		{
+			"month": 3,
+			"rent": 16000
+		},
+		{
+			"month": 4,
+			"rent": 10000
+		},
+		{
+			"month": 5,
+			"rent": 12000
+		},
+		{
+			"month": 6,
+			"rent": 30000
+		}
+	]
+},
+	  {
+	"year": 2022,
+	"rental_data": [
+		{
+			"month": 1,
+			"rent": 5000
+		},
+		{
+			"month": 2,
+			"rent": 4000
+		},
+		{
+			"month": 3,
+			"rent": 6000
+		},
+		{
+			"month": 4,
+			"rent": 9000
+		},
+		{
+			"month": 5,
+			"rent": 12000
+		},
+		{
+			"month": 6,
+			"rent": 30000
+		}
+	]
+}
+
   ],
   "tenantLogin": {
     "userId": 1,

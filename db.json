@@ -661,7 +661,7 @@
       ]
     }
   ],
-  "income_summary": [
+  "income_summary": 
    {
 	"year": 2023,
 	"rental_data": [
@@ -691,37 +691,6 @@
 		}
 	]
 },
-	  {
-	"year": 2022,
-	"rental_data": [
-		{
-			"month": 1,
-			"rent": 5000
-		},
-		{
-			"month": 2,
-			"rent": 4000
-		},
-		{
-			"month": 3,
-			"rent": 6000
-		},
-		{
-			"month": 4,
-			"rent": 9000
-		},
-		{
-			"month": 5,
-			"rent": 12000
-		},
-		{
-			"month": 6,
-			"rent": 30000
-		}
-	]
-}
-
-  ],
   "tenantLogin": {
     "userId": 1,
     "userName": "Rodgers Ogada",
